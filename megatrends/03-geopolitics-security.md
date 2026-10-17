@@ -31,7 +31,8 @@
 |---|---|
 | [방산·우주](../themes/demand/defense-space.md) | 직접 수요(재무장, 비축 재건) |
 | [핵심광물](../themes/foundation/critical-minerals.md) | 공급 측 무기화와 비중국 공급망 구축 |
-| [AI 컴퓨팅](../themes/demand/ai-compute.md) | 수출통제, 관세, 대만 리스크, 생산 거점 이전 |
+| [AI 컴퓨팅 인프라](../themes/demand/ai-compute.md) | 수출통제, 관세, 대만 리스크, 생산 거점 이전 |
+| [AI 모델·서비스](../themes/demand/ai-services.md) | 미·중 모델 경쟁(중국 오픈웨이트 모델), 각국 AI 규제 |
 | [배터리](../themes/components/battery.md) | 중국 배제 규칙(FEOC), 관세 |
 | [바이오헬스](../themes/demand/biohealth.md) | 생물보안법, 의약품 관세에 따른 생산지 재편 |
 | [전력·에너지 인프라](../themes/foundation/power-energy.md) | 에너지 안보, 러시아 핵연료 의존 축소 |
