@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="590" viewBox="0 0 1100 590" font-family="'Noto Sans KR','Noto Sans CJK KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" role="img">
+<title>산업 테마 4층 구조</title><desc>사회 변화, 수요 테마, 핵심 부품, 기반의 4개 층과 층 사이의 수요 흐름</desc>
+<defs>
+<marker id="mp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1L9 5L1 9z" fill="#534AB7"/></marker>
+<marker id="mb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1L9 5L1 9z" fill="#185FA5"/></marker>
+<marker id="mt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1L9 5L1 9z" fill="#0F6E56"/></marker>
+<marker id="ma" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1L9 5L1 9z" fill="#854F0B"/></marker>
+</defs>
+<rect x="0" y="0" width="1100" height="590" rx="16" fill="#FFFFFF"/>
+<path d="M32 20 H1068 Q1080 20 1080 32 V288 Q1080 300 1068 300 H852 Q840 300 840 288 V136 Q840 124 828 124 H32 Q20 124 20 112 V32 Q20 20 32 20 Z" fill="#EEEDFE" stroke="#534AB7" stroke-width="2"/>
+<text x="32" y="48" font-size="16" font-weight="700" fill="#26215C">1층 · 사회 변화</text>
+<text x="32" y="70" font-size="13" font-weight="400" fill="#26215C">왜 돈이 움직이는가</text>
+<text x="858" y="150" font-size="13" font-weight="700" fill="#26215C">에너지·기후</text>
+<rect x="20" y="150" width="800" height="150" rx="12" fill="#E6F1FB" stroke="#185FA5" stroke-width="2"/>
+<text x="32" y="178" font-size="16" font-weight="700" fill="#042C53">2층 · 수요 테마</text>
+<text x="32" y="200" font-size="13" font-weight="400" fill="#042C53">최종 수요가</text>
+<text x="32" y="219" font-size="13" font-weight="400" fill="#042C53">생기는 곳</text>
+<rect x="20" y="330" width="1060" height="100" rx="12" fill="#E1F5EE" stroke="#0F6E56" stroke-width="2"/>
+<text x="32" y="358" font-size="16" font-weight="700" fill="#04342C">3층 · 핵심 부품</text>
+<text x="32" y="380" font-size="13" font-weight="400" fill="#04342C">여러 수요 테마에</text>
+<text x="32" y="399" font-size="13" font-weight="400" fill="#04342C">공급하는 부품</text>
+<rect x="20" y="460" width="1060" height="108" rx="12" fill="#FAEEDA" stroke="#854F0B" stroke-width="2"/>
+<text x="32" y="488" font-size="16" font-weight="700" fill="#412402">4층 · 기반</text>
+<text x="32" y="510" font-size="13" font-weight="400" fill="#412402">가장 아래의 병목</text>
+<path d="M240 106 L214 194" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
+<path d="M285 106 L310 194" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
+<path d="M320 106 L598 194" fill="none" stroke="#534AB7" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#mp)"/>
+<path d="M450 106 L418 194" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
+<path d="M485 106 L515 194" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
+<path d="M670 106 L646 194" fill="none" stroke="#534AB7" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#mp)"/>
+<path d="M725 106 L758 194" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
+<path d="M1020 196 L1052 196 L1052 486" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
+<path d="M950 276 L950 486" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
+<path d="M890 276 L890 382 L776 382" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
+<path d="M211 244 L238 354" fill="none" stroke="#185FA5" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mb)"/>
+<path d="M245 244 Q560 500 796 502" fill="none" stroke="#185FA5" stroke-width="2.6" marker-end="url(#mb)"/>
+<path d="M440 244 L668 354" fill="none" stroke="#185FA5" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mb)"/>
+<path d="M650 244 L694 354" fill="none" stroke="#185FA5" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#mb)"/>
+<path d="M400 244 L418 486" fill="none" stroke="#185FA5" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mb)"/>
+<path d="M300 404 L372 486" fill="none" stroke="#0F6E56" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mt)"/>
+<path d="M682 404 L472 486" fill="none" stroke="#0F6E56" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mt)"/>
+<path d="M800 514 L486 514" fill="none" stroke="#854F0B" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#ma)"/>
+<rect x="192" y="62" width="140" height="44" rx="8" fill="#CECBF6" stroke="#534AB7" stroke-width="1.8"/>
+<text x="262.0" y="84.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#26215C">지능의 자동화</text>
+<rect x="401" y="62" width="130" height="44" rx="8" fill="#CECBF6" stroke="#534AB7" stroke-width="1.8"/>
+<text x="466.0" y="84.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#26215C">지정학·안보</text>
+<rect x="645" y="62" width="110" height="44" rx="8" fill="#CECBF6" stroke="#534AB7" stroke-width="1.8"/>
+<text x="700.0" y="84.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#26215C">인구 구조</text>
+<rect x="860" y="174" width="160" height="44" rx="8" fill="#CECBF6" stroke="#534AB7" stroke-width="1.8"/>
+<text x="940.0" y="196.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#26215C">기후의 물리적 변화</text>
+<rect x="860" y="232" width="140" height="44" rx="8" fill="#CECBF6" stroke="#534AB7" stroke-width="1.8"/>
+<text x="930.0" y="254.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#26215C">전기화·탈탄소</text>
+<rect x="165" y="200" width="92" height="44" rx="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.8"/>
+<text x="211.0" y="222.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#042C53">AI 컴퓨팅</text>
+<rect x="267" y="200" width="92" height="44" rx="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.8"/>
+<text x="313.0" y="222.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#042C53">사이버보안</text>
+<rect x="369" y="200" width="92" height="44" rx="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.8"/>
+<text x="415.0" y="222.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#042C53">방산·우주</text>
+<rect x="471" y="200" width="92" height="44" rx="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.8"/>
+<text x="517.0" y="222.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#042C53">조선·해운</text>
+<rect x="573" y="200" width="130" height="44" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.8" stroke-dasharray="6 4"/>
+<text x="638.0" y="219.0" text-anchor="middle" font-size="15" font-weight="500" fill="#042C53">로봇·휴머노이드</text>
+<text x="638.0" y="235.0" text-anchor="middle" font-size="12" fill="#042C53">관찰 테마</text>
+<rect x="713" y="200" width="95" height="44" rx="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.8"/>
+<text x="760.5" y="222.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#042C53">바이오헬스</text>
+<rect x="165" y="360" width="170" height="44" rx="8" fill="#9FE1CB" stroke="#0F6E56" stroke-width="1.8"/>
+<text x="250.0" y="382.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#04342C">범용·전력 반도체</text>
+<rect x="650" y="360" width="122" height="44" rx="8" fill="#9FE1CB" stroke="#0F6E56" stroke-width="1.8"/>
+<text x="711.0" y="382.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#04342C">배터리</text>
+<rect x="340" y="490" width="140" height="44" rx="8" fill="#FAC775" stroke="#854F0B" stroke-width="1.8"/>
+<text x="410.0" y="512.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#412402">핵심광물</text>
+<rect x="800" y="490" width="260" height="44" rx="8" fill="#FAC775" stroke="#854F0B" stroke-width="1.8"/>
+<text x="930.0" y="512.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#412402">전력·에너지 인프라</text>
+</svg>
