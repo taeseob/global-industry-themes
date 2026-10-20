@@ -161,6 +161,7 @@
 ```
 industry-themes/
 ├── README.md              # 이 문서: 틀, 분류 규칙, 연결, 일정
+├── CLAUDE.md              # Claude Code 작업 안내(작성 규칙, 갱신 절차, 다음 할 일)
 ├── glossary.md            # 용어집
 ├── megatrends/            # 1층: 사회 변화 (분기·반기 점검)
 ├── themes/
@@ -168,7 +169,9 @@ industry-themes/
 │   ├── components/        # 3층: 핵심 부품 (월간 점검)
 │   └── foundation/        # 4층: 기반 (월간 점검)
 ├── watch/                 # 관찰 테마 (분기 점검)
-└── issues/                # 교차 이슈 (사안별 주기)
+├── issues/                # 교차 이슈 (사안별 주기)
+├── assets/                # 구조도 SVG와 생성 스크립트
+└── tools/                 # 점검 스크립트 (링크 검사)
 ```
 
 ## 작성 원칙
