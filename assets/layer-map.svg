@@ -26,23 +26,25 @@
 <text x="310" y="292" font-size="12" font-weight="700" fill="#042C53">← AI 묶음</text>
 <path d="M250 106 L232 194" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
 <path d="M300 106 L345 194" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
-<path d="M335 106 L620 194" fill="none" stroke="#534AB7" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#mp)"/>
+<path d="M340 74 L394 74 L394 40 L615 40 L615 194" fill="none" stroke="#534AB7" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#mp)"/>
+<path d="M445 106 L375 194" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
 <path d="M480 106 L450 194" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
 <path d="M515 106 L540 194" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
 <path d="M685 106 L665 194" fill="none" stroke="#534AB7" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#mp)"/>
 <path d="M740 106 L768 194" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
 <path d="M1020 196 L1052 196 L1052 506" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
-<path d="M950 276 L950 506" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
-<path d="M890 276 L890 402 L776 402" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
+<path d="M960 276 L960 506" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
+<path d="M910 276 L910 402 L776 402" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
+<path d="M878 276 L878 336 L300 336 L300 376" fill="none" stroke="#534AB7" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mp)"/>
 <path d="M230 244 L230 262" fill="none" stroke="#185FA5" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mb)"/>
 <path d="M215 306 L225 376" fill="none" stroke="#185FA5" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mb)"/>
 <path d="M280 306 Q560 520 796 520" fill="none" stroke="#185FA5" stroke-width="2.6" marker-end="url(#mb)"/>
-<path d="M470 244 L668 376" fill="none" stroke="#185FA5" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mb)"/>
-<path d="M655 244 L694 376" fill="none" stroke="#185FA5" stroke-width="2.2" stroke-linejoin="round" stroke-dasharray="7 5" marker-end="url(#mb)"/>
 <path d="M420 244 L420 506" fill="none" stroke="#185FA5" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mb)"/>
 <path d="M300 424 L372 506" fill="none" stroke="#0F6E56" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mt)"/>
-<path d="M682 424 L472 506" fill="none" stroke="#0F6E56" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mt)"/>
+<path d="M682 424 L480 506" fill="none" stroke="#0F6E56" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#mt)"/>
 <path d="M800 534 L486 534" fill="none" stroke="#854F0B" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#ma)"/>
+<path d="M830 510 L745 428" fill="none" stroke="#854F0B" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#ma)"/>
+<path d="M840 554 L840 572 L190 572 L190 428" fill="none" stroke="#854F0B" stroke-width="2.6" stroke-linejoin="round" marker-end="url(#ma)"/>
 <rect x="200" y="62" width="140" height="44" rx="8" fill="#CECBF6" stroke="#534AB7" stroke-width="1.8"/>
 <text x="270.0" y="84.0" dy="0.35em" text-anchor="middle" font-size="15" font-weight="500" fill="#26215C">지능의 자동화</text>
 <rect x="430" y="62" width="130" height="44" rx="8" fill="#CECBF6" stroke="#534AB7" stroke-width="1.8"/>
