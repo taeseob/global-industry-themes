@@ -1,6 +1,6 @@
 # 사회 변화 1: 지능의 자동화
 
-> 기준일: 2026-10-17 · 점검 주기: 분기 · 이 문서는 "왜"를 다루고, 산업별 상세는 테마 문서에서 다룹니다
+> 기준일: 2026-10-23 · 점검 주기: 분기 · 이 문서는 "왜"를 다루고, 산업별 상세는 테마 문서에서 다룹니다
 
 ## 무엇이 변하고 있나
 
@@ -14,11 +14,12 @@
 
 | 지표 | 최근 관찰 | 의미 |
 |---|---|---|
-| 하이퍼스케일러 설비투자 | 해마다 사상 최대 경신 | 변화의 연료 |
-| AI 연산의 중심 이동 | 학습보다 추론(실제 사용)의 비중이 커지는 중 | 실사용이 늘고 있다는 신호 |
-| 맞춤형 AI 칩 성장 | 2026년 AI 서버 출하의 약 28%, 증가율은 GPU의 약 3배로 전망 | 대형 고객이 장기 사용을 전제로 비용 최적화 시작 |
-| 미국 데이터센터 전력 수요 | 2025년 31GW → 2027년 66GW 전망(골드만삭스) | 물리적 인프라로의 전이 |
-| HBM·D램 시장 | 2026년 D램 매출 급증, HBM 공급 부족 | 하드웨어 공급망 전체로 확산 |
+| 하이퍼스케일러 설비투자 | 메타 2026년 1,350억~1,450억 달러 전망(10월), 알파벳 2분기 한 분기 449억 달러, 마이크로소프트 4~6월 분기 410억 달러(각사 실적 발표) | 변화의 연료 |
+| 모델 기업 매출 | 오픈AI 2025년 연환산 200억 달러 이상, Anthropic 2026년 5월 초 연환산 470억 달러 초과(회사 발표) | 최종 수요가 빠르게 커지는 중 |
+| 맞춤형 AI 칩 성장 | 2026년 AI 서버 출하의 약 27~28%가 ASIC 기반, 2030년 40% 가까이로 확대 전망(TrendForce) | 대형 고객이 장기 사용을 전제로 비용 최적화 시작 |
+| 미국 데이터센터 전력 수요 | 2025년 31GW → 2027년 66GW 추정, 다만 1~2년 안 가동 예정 용량의 50~60%만 제때 가동 전망(골드만삭스) | 물리적 인프라로의 전이와 그 한계 |
+| HBM·D램 시장 | 2026년 2분기 HBM 매출 점유율 SK하이닉스 50%, 삼성전자 33%, 마이크론 18%, 중국 CXMT의 D램 점유율 10%(Counterpoint) | 하드웨어 공급망 전체로 확산 |
+| 지역 여론과 규제 | 미국인 71%가 자기 지역 AI 데이터센터 건설에 반대(갤럽, 2026년 3월 조사), 뉴욕주 대형 데이터센터 인허가 최대 1년 유예(2026년 7월) | 아래 "약해지는 신호" 가운데 하나가 정책으로 나타나기 시작 |
 
 ## 움직이는 산업 테마
 
@@ -41,8 +42,8 @@
 - **AI 매출이 투자를 따라오지 못함:** 클라우드 기업의 AI 관련 매출 성장이 둔화되는데 설비투자만 계속 늘어나는 상황
 - **가격 급락:** AI 모델 사용료가 경쟁으로 빠르게 떨어져 수익성이 나빠지는 상황
 - **효율 혁신:** 같은 성능을 훨씬 적은 연산으로 내는 기술이 나와 필요한 인프라 규모가 줄어드는 상황
-- **물리적 제약:** 전력·부지 부족으로 데이터센터 착공이 대거 지연·취소되는 상황
-- **규제·사회적 반발:** 일자리 대체, 저작권, 전기요금 인상에 대한 반발이 규제로 이어지는 상황
+- **물리적 제약:** 전력·부지 부족으로 데이터센터 착공이 대거 지연·취소되는 상황. PJM의 2028/2029년분 용량 경매가 신뢰도 목표보다 6,831MW 모자란 것이 관련 신호입니다
+- **규제·사회적 반발:** 일자리 대체, 저작권, 전기요금 인상에 대한 반발이 규제로 이어지는 상황. 뉴욕주의 데이터센터 인허가 유예(2026년 7월)가 첫 주 단위 사례입니다
 - **대형 고객의 투자 축소 발표:** 하이퍼스케일러 중 한 곳이라도 설비투자 가이던스를 의미 있게 낮추는 경우
 
 ## 아직 다루지 않은 연결 산업(추가 후보)
@@ -52,6 +53,14 @@
 
 ## 출처
 
-- Tom's Hardware, 맞춤형 AI ASIC 현황 (2026-05): https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia
-- WebProNews(골드만삭스 전망 인용): https://www.webpronews.com/power-grids-hidden-crisis-how-ai-data-centers-are-starving-utilities-of-transformers-and-turbines/
-- Counterpoint Research, D램·HBM 점유율: https://counterpointresearch.com/insights/global-dram-and-hbm-market-share
+- 메타, 2026년 3분기 실적 발표 (2026-10-21): https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm
+- 알파벳, 2026년 2분기 실적 발표 (2026-07-22): https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000066/googexhibit991q22026.htm
+- 마이크로소프트, 2026회계연도 4분기 실적 발표: https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast
+- 오픈AI, 연도별 연환산 매출 (2026-01): https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/
+- Anthropic, 시리즈 H 조달 발표 (2026-05-28): https://www.anthropic.com/news/series-h
+- TrendForce, 엔비디아 제품군 확대와 ASIC 서버 비중 (2026-03-18): https://www.trendforce.com/presscenter/news/20260318-12976.html
+- 골드만삭스 리서치, 미국 데이터센터 전력 수요 2027년까지 두 배: https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027
+- Counterpoint Research, 2026년 2분기 D램·HBM 점유율 (2026-09-02): https://counterpointresearch.com/insights/global-dram-and-hbm-market-share
+- 갤럽, 미국인의 지역 AI 데이터센터 반대 (2026-05-13): https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx
+- 뉴욕주지사실, 신규 대형 데이터센터 인허가 유예 (2026-07-14): https://www.governor.ny.gov/news/first-statewide-moratorium-new-hyperscale-data-centers-launched-governor-kathy-hochul
+- PJM, 2028/2029년분 용량 경매 결과 보고서 (2026-07-14): https://www.pjm.com/-/media/DotCom/markets-ops/rpm/rpm-auction-info/2028-2029/2028-2029-bra-results-report.pdf
