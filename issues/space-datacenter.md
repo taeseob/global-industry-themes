@@ -1,6 +1,6 @@
 # 교차 이슈: 우주 데이터센터와 위성 인프라
 
-> 기준일: 2026-10-17 · 단계: 레이더 · 점검 주기: 반기(주요 발사·시험 결과 시 수시)
+> 기준일: 2026-10-23 · 단계: 레이더 · 점검 주기: 반기(주요 발사·시험 결과 시 수시)
 
 | 걸치는 테마 | 연결 방식 |
 |---|---|
@@ -14,14 +14,17 @@ AI 데이터센터를 땅이 아니라 궤도 위 위성에 올리자는 구상�
 
 ## 현재 상태
 
-| 시점 | 사건 |
-|---|---|
-| 2025년 11월 | 스타트업 스타클라우드가 엔비디아 H100 칩을 실은 위성을 발사해 우주에서 AI 모델 실행을 시연 |
-| 2026년 3월 | 스타클라우드, 1억 7천만 달러 투자 유치 보도 |
-| 2026년 10월 1일 | 구글이 프로젝트 선캐처 시제품 위성 발사(TPU 4개 탑재, 플래닛과 공동 개발, 스페이스X 로켓). 열 문제로 한 번에 15분씩 가동하며 1년간 시험 예정, 2027년 위성 2기 추가 발사 계획 |
-| 2028년(목표) | 스페이스X가 "궤도 AI 연산 위성" 배치 시작을 목표로 제시 |
+| 시점 | 사건 | 출처 |
+|---|---|---|
+| 2025년 11월 | 스타트업 스타클라우드가 엔비디아 H100 칩을 실은 위성(스타클라우드-1)을 발사. 회사는 12월 우주에서 AI 모델을 실행·학습했다고 발표 | 스타클라우드, 엔비디아 |
+| 2026년 3월 | 스타클라우드, 기업가치 11억 달러로 1억 7천만 달러 투자 유치 | 스타클라우드 |
+| 2026년 5월 | 스타클라우드, 위성 간 연결에 스페이스X 스타링크의 소형 레이저 통신 장비를 쓰기로 발표 | 스타클라우드 |
+| 2026년 8월 | 스타클라우드, 기업가치 23억 달러로 2억 5천만 달러 추가 유치(엔비디아 등 참여) | 스타클라우드 |
+| 2026년 9월 28일 | 스페이스X 스타십이 처음 궤도에 올라 스타링크 V3 위성 26기 배치 | 스페이스X |
+| 2026년 10월 1일 | 구글이 프로젝트 선캐처 시제품 위성 발사(TPU 탑재, 플래닛과 공동 개발, 스페이스X 공동 발사 임무). 궤도에서 방사선·진동·온도 조건을 시험하며, 2027년 위성 2기를 더 올려 서로 연결하는 시험을 할 계획 | 구글 |
+| 2028년(목표) | 스페이스X가 증권신고서에서 이르면 2028년 궤도 AI 연산 위성 배치를 시작할 것으로 예상 | 스페이스X |
 
-구글 프로젝트 책임자는 지상 데이터센터보다 싸게 지을 수 있게 되기까지 5년 이상 걸릴 것으로 보고 이를 "문샷"이라고 불렀습니다. 한 대학 연구자는 비용과 복잡도가 지상보다 10배, 많게는 100배 커질 수 있다고 지적했습니다.
+구글은 선캐처를 "연구 문샷"이라고 부릅니다. 구글 연구진은 발사 가격이 2030년대 중반 kg당 200달러 아래로 떨어지면, 우주 데이터센터를 쏘아 올리고 운영하는 비용이 같은 규모 지상 데이터센터의 전기요금과 비슷해질 수 있다고 분석했습니다. 거꾸로 말하면, 발사 가격이 그만큼 내려오기 전까지는 경제성이 없다는 뜻입니다.
 
 ## 병목과 쟁점
 
@@ -37,8 +40,8 @@ AI 데이터센터를 땅이 아니라 궤도 위 위성에 올리자는 구상�
 | 신호 | 의미 |
 |---|---|
 | 선캐처 시제품의 1년 운영 결과(열·방사선 데이터) | 기술적 가능성의 첫 검증 |
-| 스타십 상용 발사 횟수와 발사 단가 | 경제성의 전제 조건 |
-| 첫 유료 고객 계약 | 레이더 → 관찰 승격의 핵심 신호 |
+| 스타십 상용 발사 횟수와 발사 단가 | 경제성의 전제 조건(2026년 9월 첫 궤도 비행 성공) |
+| 첫 유료 고객 계약 | 레이더 → 관찰 승격의 핵심 신호. 투자 유치는 활발하지만(스타클라우드 2026년 누적 4억 달러 이상) 유료 고객 계약은 아직 공개되지 않음 |
 | 스페이스X 궤도 AI 연산 위성 실제 배치 | 대규모 사업화 여부 |
 
 ## 승격·종료 조건
@@ -48,5 +51,14 @@ AI 데이터센터를 땅이 아니라 궤도 위 위성에 올리자는 구상�
 
 ## 출처
 
-- NPR(St. Louis Public Radio), 구글 프로젝트 선캐처 시제품 발사 (2026-10-01): https://www.stlpr.org/npr/2026-10-01/google-launches-project-suncatcher-a-step-towards-ai-data-centers-in-space
-- TechCrunch, 스타클라우드 투자 유치 (2026-03-30): https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space
+- 구글, 프로젝트 선캐처 소개 ("연구 문샷"): https://blog.google/innovation-and-ai/technology/research/google-project-suncatcher/
+- 구글 리서치, 우주 기반 AI 인프라 설계 연구(발사 가격 분석): https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/
+- 구글, 선캐처 시제품 위성 궤도 진입 (2026-10-01): https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/
+- 플래닛, 선캐처 위성 제작·운영 발표: https://www.planet.com/pulse/planet-to-build-and-operate-advanced-space-platform-for-project-suncatcher-moonshot/
+- 스타클라우드, 스타클라우드-1 소개: https://www.starcloud.com/starcloud-1
+- 엔비디아, 스타클라우드와 우주 데이터센터: https://blogs.nvidia.com/blog/starcloud/
+- 스타클라우드, 시리즈 A 1억 7천만 달러 (2026-03-30): https://www.businesswire.com/news/home/20260330024111/en/Starcloud-Raises-$170M-Series-A-at-$1.1bn-Valuation-Led-by-Benchmark-and-EQT-Ventures
+- 스타클라우드, 스타링크 소형 레이저 채택 (2026-05-26): https://www.businesswire.com/news/home/20260526670395/en/Starcloud-to-Integrate-SpaceXs-Starlink-Mini-Lasers-Into-Its-Orbital-Data-Center-Constellation
+- 스타클라우드, 2억 5천만 달러 추가 유치 (2026-08-21): https://www.businesswire.com/news/home/20260821884035/en/Starcloud-Raises-$250-Million-at-$2.3-Billion-Valuation-to-Scale-AI-with-Orbital-Data-Centers
+- 스페이스X, 2026년 3분기 실적(스타십 첫 궤도 비행): https://ir.spacex.com/files/content_files/SpaceX-Reports-Third-Quarter-2026-Results.pdf
+- 스페이스X, 증권신고서(S-1, 궤도 AI 연산 위성 계획): https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm

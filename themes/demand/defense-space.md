@@ -1,6 +1,6 @@
 # 방산·우주
 
-> 기준일: 2026-10-17 · 용어는 [용어집](../../glossary.md)에 따로 정리했습니다 · 투자 권유가 아닌 산업 정리 문서입니다
+> 기준일: 2026-10-23 · 용어는 [용어집](../../glossary.md)에 따로 정리했습니다 · 투자 권유가 아닌 산업 정리 문서입니다
 
 | 항목 | 내용 |
 |---|---|
@@ -12,9 +12,9 @@
 
 ## 왜 이 테마인가
 
-냉전 이후 30년간 서방 국가들은 국방비를 줄이고 무기 생산라인을 축소했습니다. 러시아의 우크라이나 침공(2022년), 중동 분쟁, 미·중 군사 경쟁이 이어지면서 이 흐름이 완전히 뒤집혔습니다. NATO 회원국들은 2025년 헤이그 정상회의에서 2035년까지 국방비를 GDP의 5%(직접 국방비 3.5% + 관련 투자 1.5%)로 늘리기로 합의했고, 유럽 회원국과 캐나다는 2026년 이미 관련 지출을 합쳐 4% 수준에 도달했다고 NATO 사무총장이 밝혔습니다.
+냉전 이후 30년간 서방 국가들은 국방비를 줄이고 무기 생산라인을 축소했습니다. 러시아의 우크라이나 침공(2022년), 중동 분쟁, 미·중 군사 경쟁이 이어지면서 이 흐름이 완전히 뒤집혔습니다. NATO 회원국들은 2025년 헤이그 정상회의에서 2035년까지 국방비를 GDP의 5%(핵심 국방비 3.5% + 국방·안보 관련 투자 1.5%)로 늘리기로 합의했습니다. NATO에 따르면 유럽 회원국과 캐나다의 핵심 국방비는 2025년 1년 전보다 20% 가까이 늘었고, 2026년에는 5개국이 핵심 국방비 3.5% 기준을, 17개국이 관련 투자 1.5% 기준을 맞출 것으로 예상됩니다(2026년 7월 발표).
 
-그런데 돈이 생겨도 무기를 바로 살 수는 없습니다. NATO 사무총장 스스로 유럽이 늘린 예산을 다 쓰지 못하는 이유로 방산업체의 생산능력 부족을 꼽았습니다. 그래서 이 테마는 "누가 수주하느냐"만큼 "누가 실제로 빨리 만들어 낼 수 있느냐"가 중요합니다. 한국 방산업체가 폴란드 등에서 대규모 수주를 따낸 것도 빠른 납기 덕분이었습니다.
+그런데 돈이 생겨도 무기를 바로 살 수는 없습니다. 무기 생산라인과 원료 공급망을 늘리는 데 수년이 걸리기 때문입니다. 그래서 이 테마는 "누가 수주하느냐"만큼 "누가 실제로 빨리 만들어 낼 수 있느냐"가 중요합니다. 한국 방산업체는 폴란드에서 K9 자주포, 천무에 이어 2025년 8월 K2 전차 2차 실행계약(약 9조 원)을 맺었습니다.
 
 우주는 방산과 산업 구조가 겹치는 부분이 많고(발사체, 위성, 정찰), 군사 통신에서 저궤도 위성망의 중요성이 커지면서 같은 테마로 묶었습니다.
 
@@ -38,7 +38,7 @@
 
 ### 산업 구조
 
-방산은 정부가 유일한 고객이고 수출에도 정부 허가가 필요한 규제 산업입니다. 국가마다 자국 업체를 우선하지만, 유럽은 생산능력이 부족해 한국, 미국, 튀르키예 등에서 수입을 늘리고 있습니다. 유럽연합 국가들의 포탄 생산능력은 2023~2025년 사이 몇 배로 늘었고, NATO는 탄약 생산에서 러시아와의 격차를 좁혔다고 평가합니다.
+방산은 정부가 유일한 고객이고 수출에도 정부 허가가 필요한 규제 산업입니다. 국가마다 자국 업체를 우선하지만, 유럽은 생산능력이 부족해 한국, 미국, 튀르키예 등에서 수입을 늘리고 있습니다.
 
 ### 키 플레이어
 
@@ -52,7 +52,7 @@
 
 ### 병목 구간
 
-화약·폭약의 원료가 되는 **에너지 물질 생산시설**이 병목입니다. 폭발 위험 때문에 공장 인허가가 까다롭고, 서방에는 이 공장이 몇 곳 남지 않았습니다. 화약 원료인 니트로셀룰로스를 만드는 면 섬유(린터)의 상당량을 중국에서 조달해 온 점도 약점으로 지적됩니다.
+화약·폭약의 원료가 되는 **에너지 물질 생산시설**이 병목입니다. 폭발 위험 때문에 공장 인허가가 까다롭고, 서방에는 이 공장이 몇 곳 남지 않았습니다.
 
 ### 위험 요소
 
@@ -70,9 +70,9 @@
 
 ### 산업 구조
 
-미국 미사일 시장은 록히드마틴, RTX(레이시온)가 체계 통합을 장악하고, 로켓모터는 노스롭그루먼, L3해리스(에어로젯 로켓다인 인수)가 오랫동안 사실상 양강이었습니다. 로켓모터 업체 수는 1995년 6곳에서 2017년 2곳으로 줄었다가, 앤듀릴(Anduril) 같은 신규 업체가 들어오면서 2026년 기준 4곳으로 다시 늘었습니다. 한국은 LIG넥스원(천궁·L-SAM), 한화에어로스페이스가 방공 체계를 생산하며 중동 수출에 성공했습니다.
+미국 미사일 시장은 록히드마틴, RTX(레이시온)가 체계 통합을 장악하고, 로켓모터는 노스롭그루먼, L3해리스(에어로젯 로켓다인 인수)가 오랫동안 사실상 양강이었습니다. 미국 의회 회계감사원(GAO)은 미국 고체로켓모터 제조사가 1995년 6곳에서 2곳으로 줄었다고 정리했고, 미 국방부도 2022년 보고서에서 국내 공급사가 두 곳뿐이라고 지적했습니다. 최근에는 앤듀릴 같은 신규 업체가 진입하고 있습니다. 한국은 LIG넥스원(천궁·L-SAM), 한화에어로스페이스가 방공 체계를 생산합니다.
 
-방공 미사일은 우크라이나와 중동에서 실전 소모가 매우 커서, 재고 재건 수요가 생산능력을 크게 웃돌고 있습니다. NATO는 방공·미사일방어 체계를 지금보다 5배 늘려야 한다고 밝혔습니다.
+방공 미사일은 우크라이나와 중동에서 실전 소모가 매우 커서, 재고 재건 수요가 생산능력을 크게 웃돌고 있습니다. NATO 사무총장은 2025년 6월 방공·미사일방어 체계를 지금보다 다섯 배(400% 증가)로 늘려야 한다고 밝혔습니다. 2026년 이란 전쟁은 이 부족을 더 키웠습니다. CSIS는 2026년 7월 미국의 패트리엇 요격미사일 재고가 1,000발 아래로, THAAD 요격미사일이 약 250발로 줄었다고 추정했습니다(→ [이란 전쟁·호르무즈](../../issues/iran-war-hormuz.md)). 생산 쪽에서는 록히드마틴이 2026년 1월 미 국방부와 PAC-3 MSE 연간 생산능력을 약 600발에서 약 2,000발로, THAAD 요격미사일을 연 96발에서 400발로 늘리는 7년 기본 합의를 맺었습니다. 록히드마틴은 2025년 PAC-3 MSE 620발을 인도했다고 밝혔습니다.
 
 ### 키 플레이어
 
@@ -86,7 +86,7 @@
 
 ### 병목 구간
 
-**고체로켓모터와 그 원료**가 미국 미사일 생산의 핵심 병목입니다. 미국 내 과염소산암모늄 공급사가 AMPAC 한 곳뿐이라 공장 사고 하나로 생산 전체가 멈출 수 있는 [단일 공급점](../../glossary.md#단일-공급점) 구조입니다. 미국 정부는 2026년 6월 [국방물자생산법](../../glossary.md#국방물자생산법)(DPA)을 발동해 로켓모터, 점화장치, 유도장치를 국방 대비태세에 대한 위협 요인으로 지정하고 증산을 지원하고 있습니다. 신규 로켓모터 업체가 생겨도 하위 부품 공급사는 같아서 "줄만 길어진다"는 업계 지적도 있습니다.
+**고체로켓모터와 그 원료**가 미국 미사일 생산의 핵심 병목입니다. GAO와 미 국방부 감사관실에 따르면 로켓모터 산화제인 과염소산암모늄을 공급할 수 있는 미국 내 인증 업체는 AMPAC 한 곳뿐이라, 공장 사고 하나로 생산 전체가 멈출 수 있는 [단일 공급점](../../glossary.md#단일-공급점) 구조입니다. GAO는 한 로켓모터 업체가 지난 20년 사이 하위 공급사가 약 5,000곳에서 1,000곳으로 줄었다고 추정했다고 전했습니다. 미국 대통령은 2026년 6월 11일 [국방물자생산법](../../glossary.md#국방물자생산법)(DPA) 708조에 따른 결정을 내려, 탄약 산업 기반의 생산능력 제약, 취약한 공급망, 오래 걸리는 부품 조달, 병목이 탄약·미사일·장비 생산을 해칠 수 있다고 보고 국방부 장관에게 업계와 생산 협정을 맺을 권한을 넘겼습니다.
 
 ### 위험 요소
 
@@ -136,9 +136,9 @@
 
 ### 산업 구조
 
-스페이스X가 이 산업을 거의 혼자 재편했습니다. 재사용 로켓(팰컨9)으로 발사 비용을 크게 낮췄고, 2025년 세계 상업 발사 시장 점유율은 약 82%였습니다. 자체 위성통신망 스타링크는 2026년 3월 운영 위성 1만 기를 넘겼고, 가입자 1,000만 명 이상, 2025년 매출 약 114억 달러로 스페이스X 전체 매출의 약 60%를 차지했습니다. 2026년 6월에는 나스닥에 상장했다는 보도가 이어졌습니다.
+스페이스X가 이 산업을 거의 혼자 재편했습니다. 재사용 로켓(팰컨9)으로 발사 비용을 크게 낮췄고, 2026년 3분기에만 35회를 발사했습니다(회사 실적). 자체 위성통신망 스타링크는 2026년 3월 말 저궤도 위성 약 9,600기로 궤도에서 움직이는 활성 위성의 약 75%를 차지하고(증권신고서), 9월 말 소비자 가입자는 1,360만 명입니다. 스페이스X는 2026년 2월 AI 기업 xAI를 합병한 뒤 나스닥에 상장했습니다(종목 코드 SPCX). 3분기 매출 146억 달러 가운데 AI 부문이 76억 달러, 연결(스타링크) 부문이 52억 달러, 우주(발사) 부문이 18억 달러였습니다.
 
-문제는 팰컨9 발사의 약 79%가 스타링크 위성용이라는 점입니다. 외부 위성 회사들은 2028~2029년까지 팰컨9 발사 슬롯이 꽉 찼다는 통보를 받고 있으며, 블루오리진(뉴글렌)과 ULA(벌컨)는 기술 문제로 발사가 원활하지 않아 대안이 부족합니다. 로켓랩이 2위 발사 업체로 재사용 로켓 '뉴트론'을 개발하며 위성통신 회사 이리듐 인수를 추진하고 있습니다.
+문제는 발사의 상당 부분이 자사 위성용이라는 점입니다. 2026년 3분기 발사 35회 가운데 23회가 자체 발사, 12회가 외부 고객 발사였습니다. 대안 발사체로는 블루오리진(뉴글렌), ULA(벌컨), 로켓랩 등이 있습니다. 로켓랩은 재사용 로켓 '뉴트론'의 첫 발사를 2027년으로 미뤘다고 2026년 10월 14일 밝혔고, 위성통신 회사 이리듐 인수에 합의해 2026년 9월 이리듐 주주 승인을 받았습니다.
 
 ### 키 플레이어
 
@@ -146,13 +146,13 @@
 |---|---|---|
 | 발사·위성통신 | 스페이스X(스타링크) | 발사·저궤도 통신 지배 |
 | 발사 | 로켓랩, 블루오리진, ULA(미국), 아리안스페이스(유럽) | 대안 발사체 |
-| 위성통신 | 아마존(카이퍼), 유텔샛원웹(유럽) | 스타링크 경쟁 |
+| 위성통신 | 아마존 레오(옛 카이퍼, 위성 약 400기, 2026년 서비스 시작 목표), 유텔샛원웹(유럽) | 스타링크 경쟁 |
 | 위성·부품 | 에어버스, 탈레스알레니아(유럽), 노스롭그루먼 | 위성 제작 |
 | 한국 | 한화에어로스페이스(발사체), 쎄트렉아이(위성) | 누리호, 관측위성 |
 
 ### 병목 구간
 
-**발사 슬롯**이 가장 직접적인 병목입니다. 사실상 한 회사가 공급을 쥐고 자사 위성을 우선 발사하면서, 경쟁 위성망(아마존 카이퍼 등)의 구축 속도가 발사 능력에 묶여 있습니다. 차세대 대형 재사용 로켓 스타십이 2026년 말 첫 궤도 임무를 목표로 하고 있어, 성공 여부가 발사 시장 전체의 공급량을 바꿀 수 있습니다.
+**발사 슬롯**이 가장 직접적인 병목입니다. 사실상 한 회사가 공급을 쥐고 자사 위성을 우선 발사하면서, 경쟁 위성망(아마존 레오 등)의 구축 속도가 발사 능력에 묶여 있습니다. 차세대 대형 재사용 로켓 스타십은 2026년 9월 28일 14차 시험비행에서 처음 궤도에 올라 스타링크 V3 위성 26기를 배치했고, 스페이스X는 이를 첫 매출 발생 스타십 임무라고 밝혔습니다. 스타십이 정기 운항에 들어가면 발사 시장 전체의 공급량이 크게 바뀔 수 있습니다.
 
 ### 위험 요소
 
@@ -160,7 +160,7 @@
 - **궤도 혼잡과 우주 쓰레기:** 위성 수가 급증하며 충돌과 파편 위험이 커지고 있습니다.
 - **밸류에이션:** 상장 이후 높은 기업가치가 기대에 못 미치면 우주 관련 기업 전반의 자금 조달이 위축될 수 있습니다.
 
-스타링크는 이 테마의 중심이면서 다른 테마와도 연결됩니다. 위성망은 군 통신과 드론 운용의 기반이고, 스페이스X는 2028년부터 "궤도 AI 연산 위성"을 배치하겠다고 밝혀 AI 컴퓨팅과도 접점이 생겼습니다. 이런 교차 사안은 [우주 데이터센터 교차 이슈](../../issues/space-datacenter.md)에서 함께 추적합니다.
+스타링크는 이 테마의 중심이면서 다른 테마와도 연결됩니다. 위성망은 군 통신과 드론 운용의 기반이고, 스페이스X는 증권신고서에서 이르면 2028년부터 "궤도 AI 연산 위성"을 배치하기 시작할 것으로 예상한다고 밝혀 AI 컴퓨팅과도 접점이 생겼습니다. 이런 교차 사안은 [우주 데이터센터 교차 이슈](../../issues/space-datacenter.md)에서 함께 추적합니다.
 
 ---
 
@@ -199,14 +199,24 @@
 
 ## 출처
 
-- NATO 사무총장 발언, 유럽·캐나다 국방비 4% 도달 (2026): https://news.liga.net/en/amp/politics/news/europe-and-canada-have-reached-4-of-gdp-in-defense-spending-on-their-way-to-5-rutte
-- Kyiv Independent(Yahoo), NATO 탄약 생산 역전 (2025-11): https://www.yahoo.com/news/articles/nato-reversed-russia-edge-ammunition-225304853.html
-- Stars and Stripes, NATO 탄약 생산 6배 확대 (2025-09): https://www.stripes.com/theaters/europe/2025-09-04/nato-russia-ammunition-production-18972117.html
-- Breaking Defense, 고체로켓모터 공급망 경색 (2026-01): https://breakingdefense.com/2026/01/with-the-boom-for-solid-rocket-motors-for-missiles-a-perilous-crunch-in-the-supply-chain/
-- Contrary Research, 미국 미사일 공급망 (2026-05): https://research.contrary.com/report/the-american-missile-crisis
-- Großwald, 국방물자생산법 발동 (2026-06): https://www.grosswald.org/trump-defense-production-act-solid-rocket-motors-igniters-guidance-gm-lockheed/
-- The Defense Post, 앤듀릴 로켓모터 증산 지원 (2026-02): https://thedefensepost.com/2026/02/24/anduril-solid-rocket-motor-production/amp/
-- Gulf Times(Reuters), 스페이스X 발사 슬롯 집중 (2026-08): https://www.gulf-times.com/article/730513/opinion/spacexs-ambitions-squeeze-out-rivals-reliant-on-its-rockets
-- SQ Magazine, 스페이스X 통계 2026: https://sqmagazine.co.uk/spacex-statistics.md
-- KeepTrack, 스페이스X 상장 보도 (2026-06): https://keeptrack.space/articles/9.html
-- NPR(St. Louis Public Radio), 구글 프로젝트 선캐처 발사와 스페이스X 궤도 AI 연산 계획 (2026-10-01): https://www.stlpr.org/npr/2026-10-01/google-launches-project-suncatcher-a-step-towards-ai-data-centers-in-space
+- NATO, 헤이그 정상회의 선언 (2025-06-25): https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/06/25/the-hague-summit-declaration
+- NATO, 국방 투자 현황(유럽·캐나다 지출) (2026-07-07): https://www.nato.int/en/news-and-events/articles/news/2026/07/07/defence-investment-update-record-spending-in-europe-and-canada
+- NATO, 사무총장 연설 "Building a better NATO"(방공 400% 증가) (2025-06-09): https://www.nato.int/en/news-and-events/events/transcripts/2025/06/10/building-a-better-nato
+- 방위사업청, 폴란드 K2 전차 2차 계약 발표: https://dapa.go.kr/dapa/doc/selectDoc.do?bbsSeq=326&docSeq=21346&menuSeq=3069
+- 현대로템, 회사 연혁(K2 2차 실행계약 2025-08-01): https://www.hyundai-rotem.co.kr/en/company/history/content.do
+- 미국 GAO, 고체로켓모터 공급 문제 보고서(GAO-18-45): https://www.gao.gov/products/gao-18-45
+- 미 국방부, 방위산업 기반의 경쟁 현황 보고서 (2022-02): https://media.defense.gov/2022/feb/15/2002939087/-1/-1/1/state-of-competition-within-the-defense-industrial-base.pdf
+- 미 국방부 감사관실, 과염소산암모늄 조달 감사(DODIG-2020-095): https://media.defense.gov/2020/Jul/13/2002452356/-1/-1/1/DODIG-2020-095.PDF
+- 미국 연방관보, 국방물자생산법 708조 대통령 결정(2026-15) (2026-06-17 게재): https://www.federalregister.gov/documents/2026/06/17/2026-12286/presidential-determination-and-delegation-of-authority-under-section-708-of-the-defense-production
+- CSIS, 이란 전쟁 재개와 줄어든 요격미사일 재고 (2026-07-27): https://www.csis.org/analysis/renewed-iran-war-would-test-diminished-interceptor-inventories
+- 록히드마틴, PAC-3 MSE 증산 합의 (2026-01-06): https://news.lockheedmartin.com/2026-01-06-Lockheed-Martin-and-Department-of-War-Advance-Landmark-Acquisition-Transformation-to-Accelerate-PAC-3-R-MSE-Production
+- 록히드마틴, THAAD 요격미사일 생산 4배 합의 (2026-01-29): https://news.lockheedmartin.com/2026-01-29-Lockheed-Martin-and-U-S-Department-of-War-Sign-Framework-Agreement-to-Quadruple-THAAD-Interceptor-Production-Capacity
+- 스페이스X, 2026년 3분기 실적 (2026-10-20): https://ir.spacex.com/files/content_files/SpaceX-Reports-Third-Quarter-2026-Results.pdf
+- 스페이스X, 증권신고서(S-1): https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+- 스페이스X, 스타십 14차 비행 (2026-09-28): https://www.spacex.com/launches/starship-flight-14/
+- xAI, 스페이스X 합병 발표 (2026-02-02): https://x.ai/news/xai-joins-spacex
+- 아마존, 프로젝트 카이퍼에서 아마존 레오로 이름 변경 (2025-11-13): https://www.aboutamazon.com/news/amazon-leo/project-kuiper-becomes-amazon-leo
+- 아마존, 아마존 레오 발사 현황: https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates
+- 로켓랩, 뉴트론 개발 현황과 발사 일정 조정 (2026-10-14): https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-provides-update-neutron-development-and-adjusts
+- 로켓랩, 이리듐 인수 합의: https://investors.rocketlabcorp.com/node/12841/pdf
+- 로켓랩, 투자자 소식(이리듐 주주 승인 2026-09-24): https://investors.rocketlabcorp.com/news
