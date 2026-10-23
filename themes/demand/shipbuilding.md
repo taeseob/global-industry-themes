@@ -141,7 +141,7 @@ LNG 화물창 기술 의존은 한국 조선업의 오랜 약점이고, 국산 �
 - 대한민국 정책브리핑, 한미 조선협력센터 개소 (2026-07): https://www.korea.kr/news/policyNewsView.do?newsId=148968741
 - 대한민국 정책브리핑, 인도네시아 해외조선인력센터 개소: https://www.korea.kr/news/policyNewsView.do?newsId=148932247
 - 백악관, 해군·조선 산업 기반 재건 설명자료 (2026-08): https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-rebuilds-the-u-s-navy-and-americas-shipbuilding-industrial-base/
-- 미국 법전 10편 8679조(외국 조선소 건조 제한): https://www.law.cornell.edu/uscode/text/10/8679
+- 미국 법전 10편 8679조(외국 조선소 건조 제한): https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8679&num=0&edition=prelim
 - 한화, 한화디펜스USA·한화필리조선소 첫 미 해군 하도급 (2026-03-30): https://www.hanwha.com/newsroom/news/press-releases/hanwha-defense-usa-and-hanwha-philly-shipyard-awarded-first-us-navy-subcontract.do
 - 한화디펜스USA, 조선 사업 안내(미사일방어청 계측선 선정): https://hanwhadefenseusa.com/maritime
 - 미국 연방관보, 301조 해운 조치 유예 고시(2025-19873): https://public-inspection.federalregister.gov/2025-19873.pdf

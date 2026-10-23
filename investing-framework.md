@@ -1,6 +1,6 @@
 # 테마 관찰과 투자 전략
 
-> 기준일: 2026-10-21 · 용어는 [용어집](glossary.md)에 따로 정리했습니다 · 투자 방법론을 정리한 문서이며, 특정 종목·상품의 매수·매도를 권유하지 않습니다
+> 기준일: 2026-10-23 · 용어는 [용어집](glossary.md)에 따로 정리했습니다 · 투자 방법론을 정리한 문서이며, 특정 종목·상품의 매수·매도를 권유하지 않습니다
 
 > **이 문서의 성격:** 이 노트의 산업 테마 문서를 투자 판단에 어떻게 연결할지, 그 **생각의 틀**만 정리했습니다. 특정 종목이나 ETF에 대한 의견, 목표 가격, 개인별 투자 비중은 담지 않습니다. 테마 문서와 달리 정기 갱신 대상이 아니며, 방법론을 바꿀 때만 고칩니다. 투자 판단과 그 결과의 책임은 투자자 본인에게 있습니다.
 >
@@ -145,5 +145,6 @@
 ## 출처
 
 - 금융위원회, "혁신성장과 실물경제 지원을 위한 파생상품시장 발전방안" 보도자료(개인투자자 파생상품 진입 요건: 기본예탁금, 사전교육, 모의거래), 2019-05-30. https://www.fsc.go.kr/no010101/73717
-- KB국민은행 KB Think, "ETF 세금: 국내·해외상장 ETF 매매차익과 분배금 과세 비교"(상장 위치별 과세 방식 차이), 2026-10-21 확인. https://www.kbthink.com/main/guide/etf-tax.html
+- 국세청, "2025년 신고안내 해외주식과 세금(개인투자자용)"(해외 상장 ETF 매매차익은 양도소득): https://taxlaw.nts.go.kr/downloadPDFFile.do?fleId=300000000001047678&fleSn=923559
+- 국세청 질의회신, 국내 상장 ETF와 해외 상장 ETF의 손익 통산(국내 상장 ETF 매매이익은 집합투자기구 이익으로 배당소득 구분): https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000004867
 - Itzhak Ben-David, Francesco Franzoni, Byungwook Kim, Rabih Moussawi, "Competition for Attention in the ETF Space", The Review of Financial Studies, 2023(특화·테마 ETF의 상장 후 성과). https://sfi.ch/en/publications/competition-for-attention-in-the-etf-space
