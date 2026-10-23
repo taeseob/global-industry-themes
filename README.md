@@ -146,14 +146,18 @@
 
 | 날짜 | 사건 | 영향 테마 |
 |---|---|---|
+| 2026-11-03 | 미국 중간선거(하원 전체, 상원 3분의 1). 관세·에너지·국방 정책의 방향에 영향 | 거의 모든 테마 |
 | 2026-11-09 | 미국 항만 수수료·50% 규칙 유예의 연방관보 기한. 10-23 현재 연장 고시 없음 | 조선, AI, 범용 반도체 |
+| 2026년 11월 말 | 미·중 AI 대화 다음 회의 | AI 모델·서비스, AI 컴퓨팅 |
+| 2026-12-02 | 유럽연합 AI법: 2026-08-02 이전에 출시된 생성형 AI 시스템의 기계 판독 표시 의무(제50조 2항) 유예 종료 | AI 모델·서비스 |
+| 2026년 12월 | 미국 PJM 2029/2030년분 용량 경매 | 전력, AI 컴퓨팅 |
+| 2026년 4분기 | 노보노디스크 카그리세마 미국 허가 결정 예상(회사 안내) | 바이오헬스 |
+| 2027-01-01 | 미국 국가안보 시스템 신규 도입에 CNSA 2.0(양자내성암호 포함) 알고리즘 요구 | 사이버보안, 방산 |
 | 2027-01-10 | 미·중 유예 조치 만료(중국 상무부 발표 기준): 중국 희토류·배터리 소재 통제, 미·중 항만 수수료, 한화오션 미국 자회사 제재, 미국 50% 규칙 | 광물, 배터리, 방산, AI, 조선, 범용 반도체 |
-| 2026년 말 | 노보노디스크 카그리세마 미국 허가 결정 예상 | 바이오헬스 |
-| 2026년 말 | 스페이스X 스타십 첫 궤도 임무 목표 | 방산·우주, 우주 데이터센터 |
-| 2026-12-02 | 유럽연합 AI법: 기존 AI 생성물 워터마킹 의무, 불법 합성 이미지 생성 AI 금지 시행 예정(2026년 5월 잠정 합의 기준) | AI 모델·서비스 |
-| 2027-01-01 | 미국 NSA CNSA 2.0, 국가안보 시스템 신규 도입에 양자내성암호 요구 시작 | 사이버보안, 방산 |
-| 2027년 | CoWoS 패키징 부족 완화 예상, 구글 선캐처 위성 2기 추가 발사 계획 | AI 컴퓨팅, 우주 데이터센터 |
+| 2027년 | 2.5D 첨단 패키징 부족이 조금씩 풀리기 시작할 전망(TrendForce), 구글 선캐처 위성 2기 발사 계획 | AI 컴퓨팅, 우주 데이터센터 |
 | 2027년 하반기 | GE 에어로스페이스의 CPP 인수 종결 예정 | 전력, 방산·우주(정밀 주조) |
+
+일정의 근거: [미국 연방선거위원회](https://www.fec.gov/introduction-campaign-finance/election-results-and-voting-information/), [미국 연방관보](https://www.federalregister.gov/documents/2025/11/12/2025-19846/one-year-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed-entities), [중국 상무부](https://www.mofcom.gov.cn/syxwfb/art/2026/art_d9ea01824fc44fd8a29f7dc3f8ca9c72.html), [EU 규정 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng), [PJM](https://insidelines.pjm.com/pjm-capacity-auction-procures-138318-mw-of-generation-resources-as-work-continues-to-address-growing-electricity-demand/), [노보노디스크](https://www.novonordisk.com/content/dam/nncorp/global/en/investors/pdfs/capital-markets-day/2026/obesity-presentation-cmd-2026.pdf), [미국 NSA](https://media.defense.gov/2025/May/30/2003728741/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS.PDF), [TrendForce](https://www.trendforce.com/presscenter/news/20260430-13028.html), [구글](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/), [GE 에어로스페이스](https://www.geaerospace.com/news/press-releases/ge-aerospace-acquire-consolidated-precision-products-cpp-expanding-mission-critical). 지난 일정의 결과는 해당 문서에 반영했습니다(예: 스페이스X 스타십은 2026-09-28 첫 궤도 비행에 성공, [방산·우주](themes/demand/defense-space.md)).
 
 ## 다음에 검토할 후보
 
