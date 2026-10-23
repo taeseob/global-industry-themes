@@ -8,7 +8,7 @@
 | 상위 동인 | [전기화·탈탄소](../../megatrends/02-electrification.md), [지능의 자동화](../../megatrends/01-automation-of-intelligence.md)(데이터센터 전원, 로봇), [지정학 블록화](../../megatrends/03-geopolitics-security.md)(범용 칩 공급망 무기화) |
 | 기대는 테마 | [핵심광물](../foundation/critical-minerals.md)(갈륨, 실리콘카바이드 원료) |
 | 공급하는 테마(수요처) | [배터리](battery.md)의 수요처인 전기차, [전력·에너지 인프라](../foundation/power-energy.md)(인버터, 송전 변환장치), [AI 컴퓨팅](../demand/ai-compute.md)(서버 전원장치), [방산·우주](../demand/defense-space.md)(레이더, 제어), [로봇·휴머노이드](../../watch/robotics-humanoid.md)(모터 구동), [조선·해운](../demand/shipbuilding.md)(전기추진) |
-| 교차 이슈 | [미·중 휴전 만료(2026-11)](../../issues/us-china-truce-2026-11.md) |
+| 교차 이슈 | [미·중 휴전 만료(2027-01)](../../issues/us-china-truce-2027-01.md) |
 
 ## 왜 이 테마인가
 
