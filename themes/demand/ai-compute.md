@@ -9,7 +9,7 @@
 | 기대는 테마 | [전력·에너지 인프라](../foundation/power-energy.md), [핵심광물](../foundation/critical-minerals.md)(갈륨·게르마늄·구리), [범용·전력 반도체](../components/general-power-semis.md)(서버 전원장치) |
 | 공급하는 테마(수요처) | [AI 모델·서비스](ai-services.md)(최종 수요의 대부분) |
 | 영향을 주는 테마 | [전력·에너지 인프라](../foundation/power-energy.md)(전력 수요 급증), [로봇·휴머노이드](../../watch/robotics-humanoid.md)(엣지 AI 칩·모델), [사이버보안](cybersecurity.md)(AI 공격·방어), [바이오헬스](biohealth.md)(AI 신약개발) |
-| 교차 이슈 | [우주 데이터센터](../../issues/space-datacenter.md), [미·중 휴전 만료(2026-11)](../../issues/us-china-truce-2026-11.md) |
+| 교차 이슈 | [우주 데이터센터](../../issues/space-datacenter.md), [미·중 휴전 만료(2027-01)](../../issues/us-china-truce-2027-01.md) |
 
 ## 왜 이 테마인가
 
