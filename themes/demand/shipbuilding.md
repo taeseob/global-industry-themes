@@ -8,7 +8,7 @@
 | 상위 동인 | [지정학 블록화와 안보 불안](../../megatrends/03-geopolitics-security.md)(해군력 경쟁, 미국 조선업 재건), [전기화·탈탄소](../../megatrends/02-electrification.md)(친환경 선박 교체, LNG 교역), [인구 구조 변화](../../megatrends/04-demographic-change.md)(숙련 인력 고령화) |
 | 기대는 테마 | 철강(후판, 별도 테마 없음), [범용·전력 반도체](../components/general-power-semis.md)(전기추진), [핵심광물](../foundation/critical-minerals.md)(일부) |
 | 영향을 주는 테마 | [방산·우주](defense-space.md)(해군 함정), [전력·에너지 인프라](../foundation/power-energy.md)(LNG 공급망) |
-| 교차 이슈 | [미·중 휴전 만료(2027-01)](../../issues/us-china-truce-2027-01.md)(항만 수수료, 한화오션 제재 유예) |
+| 교차 이슈 | [미·중 휴전 만료(2027-01)](../../issues/us-china-truce-2027-01.md)(항만 수수료, 한화오션 제재 유예), [이란 전쟁·호르무즈](../../issues/iran-war-hormuz.md)(유조선 운임, 우회 항로) |
 
 ## 왜 이 테마인가
 

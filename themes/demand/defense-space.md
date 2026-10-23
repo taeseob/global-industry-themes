@@ -8,7 +8,7 @@
 | 상위 동인 | [지정학 블록화와 안보 불안](../../megatrends/03-geopolitics-security.md), [지능의 자동화](../../megatrends/01-automation-of-intelligence.md)(무인화) |
 | 기대는 테마 | [핵심광물](../foundation/critical-minerals.md)(희토류 자석, 텅스텐, 안티모니, 갈륨), [AI 컴퓨팅](ai-compute.md)(반도체), [범용·전력 반도체](../components/general-power-semis.md)(레이더용 GaN, 제어 칩), [배터리](../components/battery.md)(드론) |
 | 영향을 주는 테마 | [핵심광물](../foundation/critical-minerals.md)(전략 비축 수요), [조선·해운](shipbuilding.md)(해군 함정) |
-| 교차 이슈 | [사이버·전자전](../../issues/cyber-electronic-warfare.md), [우주 데이터센터](../../issues/space-datacenter.md), [초합금·정밀 주단조](../../issues/superalloy-castings.md), [미·중 휴전 만료(2027-01)](../../issues/us-china-truce-2027-01.md) |
+| 교차 이슈 | [사이버·전자전](../../issues/cyber-electronic-warfare.md), [우주 데이터센터](../../issues/space-datacenter.md), [초합금·정밀 주단조](../../issues/superalloy-castings.md), [미·중 휴전 만료(2027-01)](../../issues/us-china-truce-2027-01.md), [이란 전쟁·호르무즈](../../issues/iran-war-hormuz.md)(요격미사일 소진) |
 
 ## 왜 이 테마인가
 

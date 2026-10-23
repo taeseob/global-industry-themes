@@ -8,7 +8,7 @@
 | 상위 동인 | [전기화·탈탄소](../../megatrends/02-electrification.md), [지능의 자동화](../../megatrends/01-automation-of-intelligence.md)(데이터센터), [지정학](../../megatrends/03-geopolitics-security.md)(에너지 안보), [기후의 물리적 변화](../../megatrends/05-climate-physical.md)(냉방 피크, 전력망 내구성) |
 | 기대는 테마 | [핵심광물](critical-minerals.md)(구리, 우라늄, 전기강판 원료), [배터리](../components/battery.md)(ESS 셀), [범용·전력 반도체](../components/general-power-semis.md)(인버터, HVDC 변환장치) |
 | 영향을 주는 테마 | [AI 컴퓨팅](../demand/ai-compute.md)(전력이 AI 투자 속도를 제한), 모든 수요 테마(전기요금, 연결 대기) |
-| 교차 이슈 | [초합금·정밀 주단조](../../issues/superalloy-castings.md)(터빈 블레이드), [우주 데이터센터](../../issues/space-datacenter.md) |
+| 교차 이슈 | [이란 전쟁·호르무즈](../../issues/iran-war-hormuz.md)(카타르 LNG), [초합금·정밀 주단조](../../issues/superalloy-castings.md)(터빈 블레이드), [우주 데이터센터](../../issues/space-datacenter.md) |
 
 ## 왜 이 테마인가
 
