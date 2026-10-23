@@ -1,6 +1,6 @@
 # 바이오헬스: 비만치료제와 바이오의약품 생산
 
-> 기준일: 2026-10-17 · 용어는 [용어집](../../glossary.md)에 따로 정리했습니다 · 투자 권유가 아닌 산업 정리 문서입니다
+> 기준일: 2026-10-23 · 용어는 [용어집](../../glossary.md)에 따로 정리했습니다 · 투자 권유가 아닌 산업 정리 문서입니다
 
 | 항목 | 내용 |
 |---|---|
@@ -14,7 +14,7 @@
 
 바이오헬스는 이 문서 묶음에서 **다른 테마와 가장 독립적인 테마**입니다. 전력이나 광물 병목의 영향을 크게 받지 않고, 고령화와 생활습관 변화라는 느리지만 확실한 사회 변화를 따라 움직입니다.
 
-그 안에서 지금 가장 변화가 큰 곳이 두 군데입니다. 첫째는 [GLP-1](../../glossary.md#glp-1) 계열 비만·대사질환 치료제입니다. 체중을 15~20% 이상 줄이는 약이 나오면서 의약품 역사상 가장 큰 단일 시장 가운데 하나가 만들어지고 있고, 먹는 알약 형태가 2026년 잇따라 승인되면서 시장이 또 한 번 확장되고 있습니다. 둘째는 바이오의약품 위탁생산([CDMO](../../glossary.md#cdmo))입니다. 미국이 중국 바이오 기업을 견제하는 생물보안법을 시행하면서, 세계 제약사들이 생산 파트너를 중국 밖으로 옮기는 공급망 재편이 진행 중입니다. 한국 기업이 이 변화의 직접적 수혜 후보입니다.
+그 안에서 지금 가장 변화가 큰 곳이 두 군데입니다. 첫째는 [GLP-1](../../glossary.md#glp-1) 계열 비만·대사질환 치료제입니다. 체중을 크게 줄이는 약이 나오면서 의약품 역사상 가장 큰 단일 시장 가운데 하나가 만들어지고 있습니다. 일라이릴리의 마운자로 한 제품 매출만 2026년 2분기 99억 달러였습니다(회사 발표). 먹는 알약 형태가 2025년 말~2026년 잇따라 승인되면서 시장이 또 한 번 확장되고 있습니다. 둘째는 바이오의약품 위탁생산([CDMO](../../glossary.md#cdmo))입니다. 미국이 중국 바이오 기업을 견제하는 생물보안법을 시행하면서, 세계 제약사들이 생산 파트너를 중국 밖으로 옮기는 공급망 재편이 진행 중입니다. 한국 기업이 이 변화의 직접적 수혜 후보입니다.
 
 ## 테마 지도
 
@@ -36,23 +36,23 @@ GLP-1 치료제는 식후 분비되는 장 호르몬을 흉내 내 식욕을 줄
 
 ### 산업 구조
 
-시장은 일라이릴리(마운자로·젭바운드, 성분명 터제파타이드)와 노보노디스크(오젬픽·위고비, 성분명 세마글루타이드) 두 회사가 양분하는 구조입니다. 2025년 말 경구 위고비가 미국에서 먹는 비만치료제로 처음 승인되어 2026년 1월 출시되었고, 2026년 4월 1일 릴리의 파운다요가 첫 비펩타이드 경구 GLP-1 비만치료제로 승인되었습니다. 노보의 차세대 복합제 카그리세마는 2025년 12월 미국에 허가 신청되어 2026년 말 결정이 예상되며, 릴리의 레타트루타이드는 3상 임상 결과가 2026년부터 차례로 나오고 있습니다.
+시장은 일라이릴리(마운자로·젭바운드, 성분명 터제파타이드)와 노보노디스크(오젬픽·위고비, 성분명 세마글루타이드) 두 회사가 양분하는 구조입니다. 릴리의 2026년 2분기 매출은 230억 달러로 1년 전보다 48% 늘었는데, 판매량이 60% 늘고 실현 가격은 13% 내렸습니다. 2025년 12월 22일 위고비 알약이 미국에서 먹는 비만치료제로 처음 승인되어 2026년 1월 5일 출시되었고(6월 초까지 처방 300만 건 이상), 2026년 4월 1일 릴리의 파운다요가 비펩타이드 경구 GLP-1 비만치료제로 승인되었습니다. 노보의 차세대 복합제 카그리세마는 2025년 12월 미국에 허가 신청되어 회사 안내 기준 2026년 4분기 결정이 예상됩니다. 릴리의 레타트루타이드는 2026년 3상 비만 임상(TRIUMPH-1)에서 최고 용량 80주 평균 28.3% 체중 감소를 보였고, 릴리는 2027년 1분기 미국 허가 신청을 계획하고 있습니다.
 
-후발 주자로 화이자(멧세라 인수), 암젠, 로슈 등 대형 제약사와 중국 바이오텍들이 뛰어들었고, 한국에서도 한미약품 등이 개발 중입니다. 특허 측면에서는 2026년부터 일부 국가(캐나다, 중국, 인도, 브라질 등)에서 세마글루타이드 특허가 만료되며 복제약이 나오기 시작해, 신흥국 시장에서 가격 하락이 시작될 전망입니다.
+후발 주자로 화이자(2025년 11월 멧세라 인수 완료), 암젠, 로슈 등 대형 제약사와 중국 바이오텍들이 뛰어들었고, 한국에서도 한미약품 등이 개발 중입니다. 특허 측면에서는 인도에서 세마글루타이드 물질 특허가 2026년 3월 20일 만료되어 여러 복제약 회사가 허가를 신청하거나 받았고(노보 공시), 캐나다에서는 2026년 4월 닥터레디스가 G7 국가 첫 세마글루타이드 복제약 허가를 받았습니다(닥터레디스 공시). 미국 물질 특허는 2032년 만료 예정입니다. 신흥국과 일부 선진국에서 가격 하락이 시작되었습니다.
 
 ### 키 플레이어
 
 | 구분 | 기업 | 비고 |
 |---|---|---|
-| 선도 | 일라이릴리(미국) | 터제파타이드, 경구 파운다요 |
-| 선도 | 노보노디스크(덴마크) | 세마글루타이드, 경구 위고비, 카그리세마 |
+| 선도 | 일라이릴리(미국) | 터제파타이드, 경구 파운다요, 레타트루타이드(개발 중) |
+| 선도 | 노보노디스크(덴마크) | 세마글루타이드, 위고비 알약, 카그리세마(허가 심사 중) |
 | 추격 | 화이자, 암젠(미국), 로슈(스위스) | 차세대 비만치료제 개발 |
 | 펩타이드 원료 | 바켐(스위스), 중국 펩타이드 CDMO, 한국 펩타이드 원료사 | API 위탁생산 |
-| 충전·마감 | 카탈렌트(노보홀딩스 인수), 웨스트파마, 백톤디킨슨 | 무균 충전, 주사기 부품 |
+| 충전·마감 | 카탈렌트(노보홀딩스 소유), 웨스트파마, 백톤디킨슨 | 무균 충전, 주사기 부품 |
 
 ### 병목 구간
 
-2022~2024년에는 수요를 생산이 따라가지 못해 미국에서 공식 품절 사태가 이어졌습니다. 이후 두 회사가 수십조 원을 들여 공장을 늘리면서 공급은 개선되었습니다. 남은 병목은 **무균 충전과 자동주사기 생산능력**, 그리고 **보험 적용**입니다. 비만치료제는 비싸고 평생 복용해야 할 수 있어서, 공공·민간 보험이 비용을 감당할지가 실제 시장 크기를 결정합니다. 2025년 11월 미국 정부와 두 회사가 가격 인하와 공공보험 적용 확대에 합의하면서 "가격은 낮추고 환자 수를 늘리는" 방향으로 시장이 움직이고 있습니다.
+2022~2024년에는 수요를 생산이 따라가지 못해 미국에서 공식 품절이 이어졌습니다. 이후 두 회사가 공장을 크게 늘리면서 공급은 개선되었고, 알약은 주사기가 필요 없어 생산 병목을 덜 받습니다. 남은 병목은 **무균 충전과 자동주사기 생산능력**, 그리고 **보험 적용**입니다. 비만치료제는 비싸고 평생 복용해야 할 수 있어서, 공공·민간 보험이 비용을 감당할지가 실제 시장 크기를 결정합니다. 2025년 11월 미국 정부와 두 회사는 정부 직판 사이트(TrumpRx)에서 주사제 월 350달러, 알약은 월 150달러부터 팔고 공공보험 적용을 넓히는 데 합의했습니다. 이에 따라 미국 메디케어는 2026년 7월 1일부터 비만 환자에게 월 50달러 본인부담으로 위고비(주사·알약), 젭바운드, 파운다요를 지원하는 시범 사업(GLP-1 브리지)을 시작했고, 이 사업을 2027년 12월 31일까지 연장했습니다. "가격은 낮추고 환자 수를 늘리는" 방향입니다.
 
 ### 위험 요소
 
@@ -73,9 +73,9 @@ GLP-1 치료제는 식후 분비되는 장 호르몬을 흉내 내 식욕을 줄
 
 ### 산업 구조
 
-스위스 론자, 한국 삼성바이오로직스, 중국 우시바이오로직스, 일본 후지필름, 미국 써모피셔(파테온) 등이 상위권입니다. 한국바이오협회가 인용한 자료에 따르면 삼성바이오로직스가 매출 기준 세계 3위 CDMO로 올라섰고, 인천 송도에 약 78만 5천 리터 규모의 세계 최대 수준 생산능력을 갖추고 있습니다. 셀트리온, 롯데바이오로직스(미국 시러큐스 공장 인수), SK팜테코도 CDMO 사업을 키우고 있습니다.
+스위스 론자, 한국 삼성바이오로직스, 중국 우시바이오로직스, 일본 후지필름, 미국 써모피셔(파테온) 등이 상위권입니다. 삼성바이오로직스는 인천 송도 1·2캠퍼스와 미국 메릴랜드주 록빌 공장을 합쳐 총 84만 5천 리터의 생산능력을 갖추고 있다고 밝힙니다. 셀트리온, 롯데바이오로직스(미국 시러큐스 공장 인수), SK팜테코도 CDMO 사업을 키우고 있습니다.
 
-이 구조를 흔든 것이 미국 [생물보안법](../../glossary.md#생물보안법)(BIOSECURE Act)입니다. 2025년 12월 18일 2026 회계연도 국방수권법에 포함되어 법이 되었는데, 초안과 달리 특정 중국 기업 이름을 명시하지 않고 미 국방부의 "중국 군사기업 목록"([1260H 목록](../../glossary.md#1260h-목록)) 등에 오른 기업을 규제 대상으로 삼는 방식이 되었습니다. 2026년 6월 8일 우시앱텍이 이 목록에 추가되면서 법의 영향이 다시 커졌습니다. 규제는 미국 연방 조달·보조금과 연결된 거래에 적용되지만, 제약사들은 위험 회피를 위해 중국 CDMO 비중을 미리 줄이는 추세입니다.
+이 구조를 흔든 것이 미국 [생물보안법](../../glossary.md#생물보안법)(BIOSECURE Act)입니다. 2025년 12월 18일 2026 회계연도 국방수권법에 포함되어 법이 되었는데, 미 국방부의 "중국 군사기업 목록"([1260H 목록](../../glossary.md#1260h-목록)) 등에 오른 기업을 규제 대상으로 삼는 방식입니다. 2026년 6월 국방부가 공개한 1260H 목록에 우시앱텍이 들어가면서 법의 영향이 다시 커졌습니다. 규제는 미국 연방 조달·보조금과 연결된 거래에 적용되지만, 제약사들은 위험 회피를 위해 중국 CDMO 비중을 미리 줄이는 추세입니다.
 
 ### 키 플레이어
 
@@ -90,14 +90,16 @@ GLP-1 치료제는 식후 분비되는 장 호르몬을 흉내 내 식욕을 줄
 
 ### 병목 구간
 
-**대형 생산설비와 규제 승인 시간**이 병목입니다. 공장을 지어도 미국 FDA와 유럽 규제기관 승인을 받기까지 시간이 걸리고, 숙련 인력도 부족합니다. 중국 CDMO에서 빠져나오는 물량을 받아줄 비중국 설비가 충분한지가 단기 관건입니다. 또 미국의 의약품 관세 압박으로 제약사들이 미국 내 생산을 늘리고 있어, 한국 CDMO도 미국 현지 생산 거점을 확보하는 쪽으로 움직이고 있습니다.
+**대형 생산설비와 규제 승인 시간**이 병목입니다. 공장을 지어도 미국 FDA와 유럽 규제기관 승인을 받기까지 시간이 걸리고, 숙련 인력도 부족합니다. 중국 CDMO에서 빠져나오는 물량을 받아줄 비중국 설비가 충분한지가 단기 관건입니다.
+
+**미국 의약품 관세**도 생산 입지를 바꾸고 있습니다. 미국은 2026년 4월 2일 섹션 232 포고로 특허 의약품과 그 원료에 기본 100% 관세를 매기기로 하고, 9월 29일부터 대부분 기업에 적용했습니다. 다만 상무부가 승인한 미국 내 생산 계획이 있는 기업은 20%(2030년 100%로 상승), 한국·일본·유럽연합·스위스산은 15%, 영국산은 10%이고, 제네릭과 바이오시밀러는 대상에서 빠졌습니다. 한국 CDMO가 만든 의약품은 15% 상한을 적용받지만, 미국 내 생산 압력이 커지면서 한국 기업도 미국 현지 거점을 늘리는 쪽으로 움직이고 있습니다.
 
 ### 위험 요소
 
-- **미국 내 생산 압력:** 미국이 의약품 관세로 현지 생산을 요구하면, 한국 등 해외 생산 기지의 매력이 줄 수 있습니다.
+- **미국 내 생산 압력:** 미국이 의약품 관세로 현지 생산을 요구하면서, 한국 등 해외 생산 기지의 매력이 줄 수 있습니다. 한국산에 적용되는 15% 상한이 유지되는지가 변수입니다.
 - **경쟁 심화:** 생물보안법 수혜를 노리는 한국·인도·일본 기업의 증설이 겹치면 가동률이 낮아질 수 있습니다.
 - **고객의 임상 실패:** 바이오텍 고객의 임상 실패나 자금난은 수주 취소로 이어집니다.
-- **정책 불확실성:** 생물보안법 세부 규칙과 대상 목록이 아직 확정 과정에 있어, 우시 계열의 지정 여부에 따라 수혜 강도가 크게 달라집니다.
+- **정책 불확실성:** 생물보안법 세부 규칙과 대상 목록이 바뀔 수 있어, 우시 계열의 지정 유지 여부에 따라 수혜 강도가 크게 달라집니다.
 
 ---
 
@@ -130,7 +132,7 @@ GLP-1 치료제는 식후 분비되는 장 호르몬을 흉내 내 식욕을 줄
 | 지표 | 왜 보는가 | 어디서 확인 |
 |---|---|---|
 | 릴리·노보 분기 매출과 가이던스 | 비만치료제 시장의 실제 크기 | 각사 실적 발표 |
-| 경구제 처방 추이 | 시장 확장 속도 | IQVIA 처방 데이터 보도 |
+| 경구제 처방 추이 | 시장 확장 속도 | 각사 발표, IQVIA |
 | 주요 임상 3상 결과 | 경쟁 구도 변화 | 학회, 각사 발표 |
 | 미국 약가·보험 정책 | 가격과 수요의 균형 | 미국 보건복지부, CMS |
 | 생물보안법 세부 규칙, 1260H 목록 변경 | CDMO 수혜 강도 | 미 국방부, 관보 |
@@ -138,12 +140,24 @@ GLP-1 치료제는 식후 분비되는 장 호르몬을 흉내 내 식욕을 줄
 
 ## 출처
 
-- DCAT Value Chain Insights, 릴리 파운다요 승인 (2026-04): https://www.dcatvci.org/features/oral-obesity-drug-battle-is-on-with-fda-ok-for-lillys-orforglipron/
-- Clarivate, 오르포글리프론 출시 일정: https://clarivate.com/drugs-to-watch/drugs-to-watch-listing/orforglipron
-- S&P Global(Visible Alpha), 위고비·파운다요 매출 전망 (2026-04): https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/04/wegovy-s-early-lead-to-narrow-as-eli-lilly-prepares-foundayo-launch
-- Vytl One, 2026 GLP-1 시장 현황: https://vytlone.com/blog/the-glp-1-market-in-2026/
-- FDA Law Blog, 우시앱텍 1260H 목록 추가와 생물보안법 (2026-06): https://www.thefdalawblog.com/2026/06/wuxi-apptecs-1260h-listing-brings-the-biosecure-act-back-to-center-stage/
-- Outsourced Pharma, 우시 재지정 논쟁 (2026-06-12): https://www.outsourcedpharma.com/doc/it-s-years-later-and-we-still-disagree-free-wuxi-from-the-biosecure-act-0001
-- 메트로신문, 산업연구원 생물보안법 영향 보고서 (2026-02): https://www.metroseoul.co.kr/article/20260218500115
-- 비즈한국, 생물보안법과 한국·인도·일본 CDMO 경쟁: https://en.bizhankook.com/articles/30986.html
-- Seoulz, 한국 CDMO 2026 현황: https://www.seoulz.com/korea-k-bio-cdmo-2026/
+- 일라이릴리, 2026년 2분기 실적 (2026-08-05): https://investor.lilly.com/news-releases/news-release-details/lilly-reports-second-quarter-2026-financial-results-raises-full
+- 일라이릴리, 파운다요 FDA 승인 (2026-04-01): https://investor.lilly.com/news-releases/news-release-details/fda-approves-lillys-foundayotm-orforglipron-only-glp-1-pill
+- 미국 FDA, 국가 우선 심사권 첫 신약 승인(파운다요): https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program
+- 일라이릴리, 레타트루타이드 3상 비만 임상(TRIUMPH-1) 결과: https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-powerful-weight-loss
+- 일라이릴리, 레타트루타이드 추가 3상 결과와 허가 신청 계획: https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional
+- 노보노디스크, 위고비 알약 미국 승인 (2025-12-22): https://www.novonordisk-us.com/media/press-releases/wegovy-pill-fda-approval-obesity.html
+- 노보노디스크, 위고비 메디케어 GLP-1 브리지 적용(처방 건수): https://www.novonordisk-us.com/media/press-releases/wegovy-accessible-medicare-glp-1-bridge.html
+- 노보노디스크, 2026 자본시장의 날 비만 발표(카그리세마 일정): https://www.novonordisk.com/content/dam/nncorp/global/en/investors/pdfs/capital-markets-day/2026/obesity-presentation-cmd-2026.pdf
+- 노보노디스크, 2026년 1분기 보고서(인도 특허 만료): https://www.sec.gov/Archives/edgar/data/0000353278/000035327826000018/caq12026.htm
+- 노보노디스크, 2024년 연차보고서(20-F, 미국 특허 만료): https://annualreport.novonordisk.com/2024/_assets/downloads/novo-nordisk-form-20-f-2024.pdf
+- 닥터레디스, 캐나다 세마글루타이드 복제약 허가 공시: https://www.sec.gov/Archives/edgar/data/0001135951/000157587226000334/rdy0896_ex99-1.htm
+- 화이자, 멧세라 인수 완료 (2025-11-13): https://www.pfizer.com/news/press-release/press-release-detail/pfizer-completes-acquisition-metsera
+- 백악관, 최혜국 약가 합의(릴리·노보) 설명자료 (2025-11): https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-announces-major-developments-in-bringing-most-favored-nation-pricing-to-american-patients/
+- 미국 CMS, 메디케어 GLP-1 브리지: https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge
+- 미국 CMS, GLP-1 브리지 연장과 BALANCE 모델 일정 (2026-04-21): https://www.cms.gov/files/document/status-update-bridge-demo-balance-model-part-d-cy2027-g-pdf.pdf
+- 백악관, 의약품 섹션 232 포고문 (2026-04-02): https://www.whitehouse.gov/presidential-actions/2026/04/adjusting-imports-of-pharmaceuticals-and-pharmaceutical-ingredients-into-the-united-states/
+- 백악관, 의약품 관세 설명자료 (2026-04-02): https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-patented-pharmaceutical-products/
+- 백악관, 한·미 정상회담 공동 설명자료(한국산 의약품 15% 상한) (2025-11): https://www.whitehouse.gov/fact-sheets/2025/11/joint-fact-sheet-on-president-donald-j-trumps-meeting-with-president-lee-jae-myung/
+- 삼성바이오로직스, 생산능력 안내: https://samsungbiologics.com/services/biopharma-manufacturing
+- 미국 의회, 2026 회계연도 국방수권법(S.1071, 공법 119-60): https://www.congress.gov/bill/119th-congress/senate-bill/1071/all-info
+- 미국 연방관보, 중국 군사기업(1260H) 지정 공고 (2026-06-10 게재): https://www.federalregister.gov/documents/2026/06/10/2026-11571/notice-of-availability-of-designation-of-chinese-military-companies
