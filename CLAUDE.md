@@ -159,7 +159,9 @@ tools/             점검 스크립트
 | 2026년 11월 말 | 미·중 AI 대화 다음 회의 | `issues/us-china-truce-2027-01.md`, AI 모델·서비스 |
 | 2026-12-02 | 유럽연합 AI법 제50조 2항 유예 종료(기존 생성형 AI 시스템의 기계 판독 표시) | `themes/demand/ai-services.md` |
 | 2026-12-04 | IMO 넷제로 프레임워크 채택 논의 재개 | `themes/demand/shipbuilding.md` |
+| 2026-12-04 | 미국 폴리실리콘·태양광 제품 최저 수입가격 시행 | `themes/foundation/power-energy.md` |
 | 2026년 12월 | PJM 2029/2030년분 용량 경매 | `themes/foundation/power-energy.md` |
+| 2026년 12월 하순 | 미국 에너지부 전력망 장비 행정명령(14421호) 시행 규칙 기한 | `themes/foundation/power-energy.md` |
 | 2026년 4분기 | 카그리세마 미국 허가 결정 예상(회사 안내) | 바이오헬스 |
 | 2027-01-01 | 미국 국가안보 시스템 신규 도입에 CNSA 2.0 요구 | 사이버보안, 교차 이슈(사이버·전자전) |
 | 2027-01-10 | 미·중 공동 안배 유예 만료(중국 상무부 2026-09-28 발표 기준): 희토류·배터리 소재 통제, 항만 수수료, 한화오션 미국 자회사 제재, 미국 50% 규칙 | `issues/us-china-truce-2027-01.md` 외 다수 |
