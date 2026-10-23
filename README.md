@@ -201,7 +201,7 @@ industry-themes/
 ├── assets/                # 구조도 SVG와 생성 스크립트
 ├── tools/                 # 점검 스크립트 (링크 검사)
 ├── .claude/               # Claude Code 프로젝트 설정 (클라우드 세션 훅)
-└── .github/workflows/     # GitHub Actions (링크 검사, @claude 호출, PR 리뷰)
+└── .github/workflows/     # GitHub Actions (링크 검사, @claude 호출)
 ```
 
 ## 작성 원칙

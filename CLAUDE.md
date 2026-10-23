@@ -27,7 +27,7 @@ log/               월별 기록: 문서 변화 요약 + 사용자 판단 (형�
 assets/            구조도 SVG와 생성 스크립트
 tools/             점검 스크립트
 .claude/           Claude Code 프로젝트 설정 (클라우드 세션의 커밋 작성자 훅)
-.github/workflows/ GitHub Actions (링크 검사, @claude 호출, PR 리뷰)
+.github/workflows/ GitHub Actions (링크 검사, @claude 호출)
 ```
 
 | 층 | 현재 문서 |
@@ -111,7 +111,7 @@ tools/             점검 스크립트
 - **로컬 작업 시작 전:** `git pull`로 main을 최신으로 맞추고 `gh pr list`로 열린 PR을 확인합니다. 고칠 문서가 열린 PR에서도 바뀌고 있으면 사용자에게 알리고, 그 PR을 먼저 병합할지 묻습니다. 같은 문서를 두 곳에서 동시에 고치지 않기 위해서입니다.
 - **로컬 커밋:** 커밋은 사용자가 요청할 때만 합니다. 요청하면 main에 커밋하고, 따로 묻지 않고 `git push origin main`까지 합니다.
 - **클라우드 세션 커밋:** `CLAUDE_CODE_REMOTE`가 `true`면 클라우드 세션입니다. main에 직접 push하지 않고, 세션의 작업 브랜치(`claude/...`)에 커밋·push한 뒤 PR을 만듭니다. 병합은 사용자가 GitHub에서 합니다. 클라우드에서는 `gh pr`·`gh issue` 명령이 막혀 있으므로(GraphQL 차단), PR은 세션 화면의 PR 만들기 기능이나 `gh api repos/taeseob/global-industry-themes/pulls`(REST)로 만듭니다. 루틴의 커밋 방식은 "다음 할 일" 1번의 구성을 따릅니다.
-- **GitHub Actions 커밋:** `GITHUB_ACTIONS`가 `true`면 `@claude`로 불린 실행입니다. 액션이 정한 작업 브랜치에 커밋하고 main에 직접 push하지 않습니다. PR 설명은 클라우드 세션과 같은 규칙으로 씁니다. 실행기에서 쓸 수 있는 명령은 워크플로의 `claude_args`에서 허용한 것뿐입니다(지금은 웹 검색, 페이지 읽기, `python3 tools/check_links.py`).
+- **GitHub Actions 커밋:** `GITHUB_ACTIONS`가 `true`면 `@claude`로 불린 실행입니다. 액션이 정한 작업 브랜치에 커밋하고 main에 직접 push하지 않습니다. PR 설명은 클라우드 세션과 같은 규칙으로 씁니다. 실행기에서 쓸 수 있는 명령은 워크플로의 `claude_args`에서 허용한 것뿐입니다(지금은 웹 검색, 페이지 읽기, `python3 tools/check_links.py`). PR 자동 리뷰 워크플로는 두지 않습니다. 문서 저장소라 얻는 것이 적고, PR에 push할 때마다 사용량을 쓰기 때문입니다(2026-10-23 결정). 리뷰가 필요하면 PR 댓글에 `@claude 리뷰해 줘`라고 씁니다.
 - **PR 설명이 인수인계 메모입니다.** 무엇을 바꿨는지, 왜 바꿨는지, 남은 일을 적습니다. 별도의 `STATUS.md`는 두지 않습니다. 남은 일이 프로젝트 계획에 해당하면 같은 PR에서 이 파일의 "다음 할 일"을 고칩니다.
 - **커밋 작성자:** 클라우드 세션이 시작될 때 `.claude/settings.json`의 SessionStart 훅(`.claude/hooks/cloud-git-identity.sh`)이 작성자를 `taeseob` / `taeseob@users.noreply.github.com`으로 설정합니다. 첫 커밋 뒤 `git log -1 --format='%an <%ae>'`로 확인하고, 다르면 push하기 전에 고칩니다. GitHub 웹·API로 만든 커밋(`/install-github-app`, GitHub 앱에서 직접 고친 파일, 웹에서 누른 병합)은 GitHub 계정의 이메일 공개 설정을 따릅니다. 2026-10-23에 이 경로로 개인 이메일이 커밋에 남은 일이 있었으므로, 로컬 작업을 시작할 때 `git log`에 noreply가 아닌 작성자가 보이면 사용자에게 알립니다.
 - **링크 검사:** PR과 main push마다 GitHub Actions(`.github/workflows/check-links.yml`)가 `tools/check_links.py`를 실행합니다. 커밋 전 로컬 검사(갱신 절차 7번)도 그대로 합니다. Actions는 리눅스에서 돌아서 파일 이름의 대소문자를 구분하므로, Windows에서 통과한 링크가 여기서 걸릴 수 있습니다.
