@@ -199,7 +199,9 @@ industry-themes/
 ├── issues/                # 교차 이슈 (사안별 주기)
 ├── log/                   # 월별 기록: 문서 변화 요약과 판단
 ├── assets/                # 구조도 SVG와 생성 스크립트
-└── tools/                 # 점검 스크립트 (링크 검사)
+├── tools/                 # 점검 스크립트 (링크 검사)
+├── .claude/               # Claude Code 프로젝트 설정 (클라우드 세션 훅)
+└── .github/workflows/     # GitHub Actions (링크 검사)
 ```
 
 ## 작성 원칙

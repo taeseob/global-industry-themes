@@ -1,0 +1,19 @@
+# 문서 사이의 상대 링크와 앵커를 검사한다.
+# 휴대폰에서 PR을 병합할 때도 로컬의 tools/check_links.py와 같은 검사를 거치게 하려는 것이다.
+name: 링크 검사
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 링크 검사
+        run: python3 tools/check_links.py

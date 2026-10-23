@@ -8,6 +8,13 @@ import re
 import sys
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+FENCE = re.compile(r"^(```|~~~).*?^\1[^\n]*$", re.M | re.S)
+INLINE_CODE = re.compile(r"`[^`\n]*`")
+
+
+def strip_code(text: str) -> str:
+    """코드 블록과 인라인 코드 안의 링크·제목은 서식 예시이므로 검사에서 뺀다."""
+    return INLINE_CODE.sub("", FENCE.sub("", text))
 
 
 def slug(heading: str) -> str:
@@ -29,13 +36,13 @@ def main() -> int:
     anchors = {}
     for f in files:
         with open(f, encoding="utf-8") as fh:
-            text = fh.read()
+            text = strip_code(fh.read())
         anchors[os.path.abspath(f)] = {slug(h) for h in re.findall(r"^#{1,6}\s+(.*)$", text, re.M)}
 
     bad = []
     for f in files:
         with open(f, encoding="utf-8") as fh:
-            text = fh.read()
+            text = strip_code(fh.read())
         for link in re.findall(r"\]\(([^)\s]+)\)", text):
             if link.startswith(("http://", "https://", "mailto:")):
                 continue
