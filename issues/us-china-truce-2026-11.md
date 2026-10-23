@@ -1,6 +1,6 @@
 # 교차 이슈: 미·중 휴전 유예 만료 (2026년 11월)
 
-> 기준일: 2026-10-17 · 단계: 임박 · 점검 주기: 만료 시점까지 주간, 이후 결과 정리
+> 기준일: 2026-10-23 · 단계: 임박 · 점검 주기: 만료 시점까지 주간, 이후 결과 정리
 
 | 걸치는 테마 | 연결 방식 |
 |---|---|
@@ -27,6 +27,10 @@
 
 **유예와 무관하게 계속 시행 중인 조치:** 중국이 2025년 4월 도입한 7종 중·중희토류(사마륨, 가돌리늄, 테르븀, 디스프로슘, 루테튬, 스칸듐, 이트륨) 수출 허가제는 유예 대상이 아니어서 그대로 시행 중입니다. 2026년 5월 미·중 정상회담 이후에도 이 허가제는 거의 바뀌지 않았습니다.
 
+## 최근 동향 (2026-10-23 확인)
+
+2026년 9월 23일 보도에 따르면 미국 재무장관이 중국 부총리와 협의한 뒤 부산 휴전을 2027년 1월 10일까지 두 달 연장한다고 밝혔습니다. 당시 미국은 6개월 연장을 제안하고 중국은 더 긴 연장을 원하던 중이었습니다. 다만 이 보도는 한 곳뿐이고, 연장이 희토류 통제 유예, 항만 수수료, 50% 규칙에 각각 어떻게 적용되는지는 확인하지 못했습니다. 미국 무역대표부 대표가 "3~6개월이 적절한 범위"이며 중국의 이행을 보며 조금씩 연장하는 방식을 선호한다고 말했다는 보도도 있습니다. 따라서 아래 표의 만료일은 **바뀔 수 있는 상태**로 읽고, 양국 정부의 공식 발표나 중국 상무부 공고로 확정되면 표를 고칩니다.
+
 ## 시나리오
 
 | 시나리오 | 내용 | 영향 |
@@ -52,4 +56,7 @@
 - Benchmark Mineral Intelligence, 2026년 5월 정상회담 이후 희토류 통제: https://source.benchmarkminerals.com/article/china-s-rare-earth-export-controls-show-little-sign-of-easing-after-trump-xi-summit
 - China Briefing, 중국 희토류 통제 유예와 미국 50% 규칙 유예: https://china-briefing.com/news/chinas-rare-earth-export-controls
 - Seatrade Maritime, 미·중 항만 수수료 유예 만료 (2026-08-28): https://www.seatrade-maritime.com/ports-logistics/ustr-and-china-port-fees-could-return-in-just-10-weeks
+- investinglive, 부산 휴전 2027-01-10 연장 보도 (2026-09-23): https://investinglive.com/news/us-and-china-extend-busan-trade-truce-to-january-10-as-xi-arrives-for-trump-summit/
+- 호주 커먼웰스은행, 11월 시한과 정상회담 (2026-09): https://www.commbank.com.au/articles/newsroom/2026/09/trump-xi-summit-rare-earths-november-deadline.html
+- 헤럴드경제, 미국 무역대표부 대표의 3~6개월 연장 발언: https://biz.heraldcorp.com/article/10881326
 - Korea Times, 중국의 한화오션 미국 자회사 제재 유예 (2025-11-10): https://www.koreatimes.co.kr/business/companies/20251110/china-suspends-sanctions-on-hanwha-oceans-us-subsidiaries
