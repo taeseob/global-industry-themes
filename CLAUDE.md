@@ -27,7 +27,7 @@ log/               월별 기록: 문서 변화 요약 + 사용자 판단 (형�
 assets/            구조도 SVG와 생성 스크립트
 tools/             점검 스크립트
 .claude/           Claude Code 프로젝트 설정 (클라우드 세션의 커밋 작성자 훅)
-.github/workflows/ GitHub Actions (PR·main 링크 검사)
+.github/workflows/ GitHub Actions (링크 검사, @claude 호출, PR 리뷰)
 ```
 
 | 층 | 현재 문서 |
@@ -99,20 +99,21 @@ tools/             점검 스크립트
 ## 작업 전 사용량 확인 (2026-10-21 사용자 결정)
 
 - **큰 작업은 터미널의 `claude`(CLI)에서 실행합니다.** 큰 작업은 여러 문서를 고치는 작업(정기 갱신, 교차 이슈 반영, 구조 변경)입니다. VS Code 확장은 상태 표시줄 스크립트를 실행하지 않아 사용량을 확인할 수 없습니다(2026-10-21 확인). 실행 방법: VS Code 터미널(Ctrl+`)을 열고 저장소 폴더에서 `claude`를 입력합니다. 휴대폰에서 이어 갈 세션이면 `claude --rc`로 시작합니다(VS Code 확장의 `/rc`로 연결한 세션은 아래 확인에서 `claude-vscode`로 걸립니다).
-- 큰 작업을 시작하기 전에 환경 변수를 확인합니다. `CLAUDE_CODE_REMOTE`가 `true`면 클라우드 세션이므로 아래 확인을 모두 건너뜁니다. 아니면 `CLAUDE_CODE_ENTRYPOINT`를 확인합니다. 값이 `cli`가 아니면(VS Code 확장은 `claude-vscode`) 시작하지 않고, 터미널에서 `claude`로 다시 요청해 달라고 안내합니다. 사용자가 그대로 진행하라고 하면 진행합니다. 문서 한두 곳만 고치는 작은 작업은 확인 없이 진행합니다.
+- 큰 작업을 시작하기 전에 환경 변수를 확인합니다. `CLAUDE_CODE_REMOTE`가 `true`(클라우드 세션)이거나 `GITHUB_ACTIONS`가 `true`(GitHub Actions의 `@claude` 실행)면 아래 확인을 모두 건너뜁니다. 아니면 `CLAUDE_CODE_ENTRYPOINT`를 확인합니다. 값이 `cli`가 아니면(VS Code 확장은 `claude-vscode`) 시작하지 않고, 터미널에서 `claude`로 다시 요청해 달라고 안내합니다. 사용자가 그대로 진행하라고 하면 진행합니다. 문서 한두 곳만 고치는 작은 작업은 확인 없이 진행합니다.
 - CLI에서는 `~/.claude/usage-status.json`을 읽습니다. 사용자 전역 상태 표시줄 스크립트(`~/.claude/statusline.py`)가 이 파일을 씁니다. 5시간 한도(`five_hour`) 또는 7일 한도(`seven_day`)의 `used_percentage`가 **90% 이상**이면 작업을 시작하지 않습니다. 초기화 시각(`resets_at`, 유닉스 초)을 한국 시간으로 바꿔 알리고 사용자 지시를 기다립니다.
 - `resets_at`이 이미 지난 항목은 초기화된 것으로 봅니다. CLI인데 파일이 없거나 `updated_at`이 10분 넘게 지났으면 상태 표시줄이 동작하지 않는 것이므로, "사용량을 확인할 수 없음"을 한 줄로 알리고 진행합니다.
-- 클라우드 세션(Claude 앱 Code 탭, claude.ai/code)과 클라우드 루틴(자동 업데이트)에는 사용량 파일이 없으므로 이 확인을 모두 건너뜁니다. 휴대폰에서 큰 작업을 맡길 때 사용량은 사용자가 Claude 앱 설정에서 직접 확인합니다.
+- 클라우드 세션(Claude 앱 Code 탭, claude.ai/code), 클라우드 루틴(자동 업데이트), GitHub Actions에는 사용량 파일이 없으므로 이 확인을 모두 건너뜁니다. 휴대폰에서 큰 작업을 맡길 때 사용량은 사용자가 Claude 앱 설정에서 직접 확인합니다.
 - 작업 도중 한도가 차서 멈췄다가 다시 시작할 때는 `git status`로 어디까지 고쳤는지 먼저 확인합니다.
 
 ## 기기 간 작업 (2026-10-23 사용자 결정)
 
-- **GitHub의 `main`이 원본입니다.** PC는 로컬 저장소에서 작업합니다. 휴대폰은 PC가 켜져 있으면 Remote Control(PC 터미널에서 `claude --rc`로 시작한 세션을 Claude 앱에서 이어 감), 꺼져 있으면 클라우드 세션(Claude 앱 Code 탭)으로 작업합니다. Remote Control 세션은 PC에서 실행되므로 로컬 규칙을 따릅니다.
+- **GitHub의 `main`이 원본입니다.** PC는 로컬 저장소에서 작업합니다. 휴대폰은 PC가 켜져 있으면 Remote Control(PC 터미널에서 `claude --rc`로 시작한 세션을 Claude 앱에서 이어 감), 꺼져 있으면 클라우드 세션(Claude 앱 Code 탭)으로 작업합니다. GitHub의 PR·이슈 댓글이나 이슈 본문에 `@claude`를 적어 GitHub Actions(`.github/workflows/claude.yml`)로 부를 수도 있습니다. Remote Control 세션은 PC에서 실행되므로 로컬 규칙을 따릅니다.
 - **로컬 작업 시작 전:** `git pull`로 main을 최신으로 맞추고 `gh pr list`로 열린 PR을 확인합니다. 고칠 문서가 열린 PR에서도 바뀌고 있으면 사용자에게 알리고, 그 PR을 먼저 병합할지 묻습니다. 같은 문서를 두 곳에서 동시에 고치지 않기 위해서입니다.
 - **로컬 커밋:** 커밋은 사용자가 요청할 때만 합니다. 요청하면 main에 커밋하고, 따로 묻지 않고 `git push origin main`까지 합니다.
 - **클라우드 세션 커밋:** `CLAUDE_CODE_REMOTE`가 `true`면 클라우드 세션입니다. main에 직접 push하지 않고, 세션의 작업 브랜치(`claude/...`)에 커밋·push한 뒤 PR을 만듭니다. 병합은 사용자가 GitHub에서 합니다. 클라우드에서는 `gh pr`·`gh issue` 명령이 막혀 있으므로(GraphQL 차단), PR은 세션 화면의 PR 만들기 기능이나 `gh api repos/taeseob/global-industry-themes/pulls`(REST)로 만듭니다. 루틴의 커밋 방식은 "다음 할 일" 1번의 구성을 따릅니다.
+- **GitHub Actions 커밋:** `GITHUB_ACTIONS`가 `true`면 `@claude`로 불린 실행입니다. 액션이 정한 작업 브랜치에 커밋하고 main에 직접 push하지 않습니다. PR 설명은 클라우드 세션과 같은 규칙으로 씁니다. 실행기에서 쓸 수 있는 명령은 워크플로의 `claude_args`에서 허용한 것뿐입니다(지금은 웹 검색, 페이지 읽기, `python3 tools/check_links.py`).
 - **PR 설명이 인수인계 메모입니다.** 무엇을 바꿨는지, 왜 바꿨는지, 남은 일을 적습니다. 별도의 `STATUS.md`는 두지 않습니다. 남은 일이 프로젝트 계획에 해당하면 같은 PR에서 이 파일의 "다음 할 일"을 고칩니다.
-- **커밋 작성자:** 클라우드 세션이 시작될 때 `.claude/settings.json`의 SessionStart 훅(`.claude/hooks/cloud-git-identity.sh`)이 작성자를 `taeseob` / `taeseob@users.noreply.github.com`으로 설정합니다. 첫 커밋 뒤 `git log -1 --format='%an <%ae>'`로 확인하고, 다르면 push하기 전에 고칩니다.
+- **커밋 작성자:** 클라우드 세션이 시작될 때 `.claude/settings.json`의 SessionStart 훅(`.claude/hooks/cloud-git-identity.sh`)이 작성자를 `taeseob` / `taeseob@users.noreply.github.com`으로 설정합니다. 첫 커밋 뒤 `git log -1 --format='%an <%ae>'`로 확인하고, 다르면 push하기 전에 고칩니다. GitHub 웹·API로 만든 커밋(`/install-github-app`, GitHub 앱에서 직접 고친 파일, 웹에서 누른 병합)은 GitHub 계정의 이메일 공개 설정을 따릅니다. 2026-10-23에 이 경로로 개인 이메일이 커밋에 남은 일이 있었으므로, 로컬 작업을 시작할 때 `git log`에 noreply가 아닌 작성자가 보이면 사용자에게 알립니다.
 - **링크 검사:** PR과 main push마다 GitHub Actions(`.github/workflows/check-links.yml`)가 `tools/check_links.py`를 실행합니다. 커밋 전 로컬 검사(갱신 절차 7번)도 그대로 합니다. Actions는 리눅스에서 돌아서 파일 이름의 대소문자를 구분하므로, Windows에서 통과한 링크가 여기서 걸릴 수 있습니다.
 
 ## 갱신 절차

@@ -47,4 +47,6 @@ jobs:
           # See https://github.com/anthropics/claude-code-action/blob/main/docs/usage.md
           # or https://code.claude.com/docs/en/cli-reference for available options
           # claude_args: '--allowed-tools Bash(gh pr *)'
+          # 테마 문서 갱신에 필요한 자료 조사(웹 검색·페이지 읽기)와 링크 검사를 허용한다.
+          claude_args: '--allowedTools "WebSearch,WebFetch,Bash(python3 tools/check_links.py)"'
 
